@@ -117,3 +117,55 @@ Performs a semantic search against the FAISS vector store and returns relevant t
 | `limit` | integer | ❌ No | 10 | Maximum number of transactions to return |
 | `summarize` | boolean | ❌ No | False | If True, sends transactions to Gemini API for a summary |
 
+**Input**
+
+```bash
+q: What are my top 3 expenses last month?
+userId: user_1
+k: 3
+```
+
+**Response body**
+
+```bash
+{
+  "query": "What are my top 3 expenses last month?",
+  "userId": "user_1",
+  "summary": "Here are your top 3 expenses last month:\n\n- Rent payment for September to landlord. – ₹23983.86 – 2025-09-27\n- Eligendi ipsum praesentium doloribus velit pariatur – ₹4233.25 – 2025-09-28\n- Assumenda culpa veniam perferendis quia quas ducimus – ₹2532.84 – 2025-09-29\n\n💬 Summary: Your top 3 expenses last month totaled ₹30749.95, with rent being your largest expense.",
+  "matches": [
+    {
+      "id": "txn_user_1_15",
+      "userId": "user_1",
+      "date": "2025-09-29",
+      "description": "Assumenda culpa veniam perferendis quia quas ducimus",
+      "amount": 2532.84,
+      "type": "Debit",
+      "category": "Travel",
+      "balance": 102532.41,
+      "distance": 0.9917035102844238
+    },
+    {
+      "id": "txn_user_1_73",
+      "userId": "user_1",
+      "date": "2025-09-28",
+      "description": "Eligendi ipsum praesentium doloribus velit pariatur",
+      "amount": 4233.25,
+      "type": "Debit",
+      "category": "Travel",
+      "balance": 56785.52,
+      "distance": 0.9689119458198547
+    },
+    {
+      "id": "txn_user_1_52",
+      "userId": "user_1",
+      "date": "2025-09-27",
+      "description": "Rent payment for September to landlord.",
+      "amount": 23983.86,
+      "type": "Debit",
+      "category": "Rent",
+      "balance": 64463.84,
+      "distance": 0.9939868450164795
+    }
+  ]
+}
+```
