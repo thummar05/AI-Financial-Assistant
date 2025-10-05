@@ -1,0 +1,4502 @@
+[
+    {
+        "id": "txn_user_1_1",
+        "userId": "user_1",
+        "date": "2025-08-12",
+        "description": "Monthly salary deposit from Singh-Dalal",
+        "amount": 76591.34,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 144044.41
+    },
+    {
+        "id": "txn_user_1_2",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Online purchase from Flipkart.",
+        "amount": 7251.43,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 136792.98
+    },
+    {
+        "id": "txn_user_1_3",
+        "userId": "user_1",
+        "date": "2025-08-15",
+        "description": "Aut facilis assumenda ea magni voluptas",
+        "amount": 3438.43,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 133354.56
+    },
+    {
+        "id": "txn_user_1_4",
+        "userId": "user_1",
+        "date": "2025-08-21",
+        "description": "Internet bill payment.",
+        "amount": 2155.66,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 131198.89
+    },
+    {
+        "id": "txn_user_1_5",
+        "userId": "user_1",
+        "date": "2025-09-22",
+        "description": "Internet bill payment.",
+        "amount": 3172.21,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 128026.69
+    },
+    {
+        "id": "txn_user_1_6",
+        "userId": "user_1",
+        "date": "2025-10-01",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 323.51,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 127703.18
+    },
+    {
+        "id": "txn_user_1_7",
+        "userId": "user_1",
+        "date": "2025-09-03",
+        "description": "Sint atque unde minima sapiente",
+        "amount": 1026.61,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 126676.57
+    },
+    {
+        "id": "txn_user_1_8",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "UPI payment to Zomato.",
+        "amount": 947.06,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 125729.51
+    },
+    {
+        "id": "txn_user_1_9",
+        "userId": "user_1",
+        "date": "2025-08-17",
+        "description": "Commodi vero laboriosam repellendus laborum nesciunt",
+        "amount": 5222.63,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 120506.88
+    },
+    {
+        "id": "txn_user_1_10",
+        "userId": "user_1",
+        "date": "2025-08-31",
+        "description": "Qui a blanditiis tenetur quibusdam",
+        "amount": 4777.51,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 115729.37
+    },
+    {
+        "id": "txn_user_1_11",
+        "userId": "user_1",
+        "date": "2025-08-07",
+        "description": "Fugit doloremque aliquam error unde occaecati fugiat",
+        "amount": 5839.16,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 109890.21
+    },
+    {
+        "id": "txn_user_1_12",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "Online purchase from Flipkart.",
+        "amount": 2161.62,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 107728.59
+    },
+    {
+        "id": "txn_user_1_13",
+        "userId": "user_1",
+        "date": "2025-09-29",
+        "description": "Omnis aliquam sint rem aliquam",
+        "amount": 2223.11,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 105505.49
+    },
+    {
+        "id": "txn_user_1_14",
+        "userId": "user_1",
+        "date": "2025-09-29",
+        "description": "UPI payment to Zomato.",
+        "amount": 440.23,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 105065.26
+    },
+    {
+        "id": "txn_user_1_15",
+        "userId": "user_1",
+        "date": "2025-09-29",
+        "description": "Assumenda culpa veniam perferendis quia quas ducimus",
+        "amount": 2532.84,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 102532.41
+    },
+    {
+        "id": "txn_user_1_16",
+        "userId": "user_1",
+        "date": "2025-08-23",
+        "description": "Monthly salary deposit from Agate-Bhat",
+        "amount": 55889.55,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 158421.97
+    },
+    {
+        "id": "txn_user_1_17",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Online purchase from Myntra.",
+        "amount": 5078.51,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 153343.46
+    },
+    {
+        "id": "txn_user_1_18",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Internet bill payment.",
+        "amount": 4123.66,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 149219.79
+    },
+    {
+        "id": "txn_user_1_19",
+        "userId": "user_1",
+        "date": "2025-10-06",
+        "description": "Rent payment for October to landlord.",
+        "amount": 17588.85,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 131630.94
+    },
+    {
+        "id": "txn_user_1_20",
+        "userId": "user_1",
+        "date": "2025-09-25",
+        "description": "UPI payment to Swiggy.",
+        "amount": 415.68,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 131215.26
+    },
+    {
+        "id": "txn_user_1_21",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Rent payment for September to landlord.",
+        "amount": 34676.18,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 96539.08
+    },
+    {
+        "id": "txn_user_1_22",
+        "userId": "user_1",
+        "date": "2025-08-23",
+        "description": "Expedita voluptatum earum quidem suscipit",
+        "amount": 5469.56,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 91069.52
+    },
+    {
+        "id": "txn_user_1_23",
+        "userId": "user_1",
+        "date": "2025-08-26",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 1492.03,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 89577.49
+    },
+    {
+        "id": "txn_user_1_24",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Totam possimus in explicabo",
+        "amount": 2894.04,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 86683.45
+    },
+    {
+        "id": "txn_user_1_25",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Internet bill payment.",
+        "amount": 2379.98,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 84303.46
+    },
+    {
+        "id": "txn_user_1_26",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "UPI payment to Zomato.",
+        "amount": 363.1,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 83940.36
+    },
+    {
+        "id": "txn_user_1_27",
+        "userId": "user_1",
+        "date": "2025-08-27",
+        "description": "Perspiciatis quasi dignissimos dolor",
+        "amount": 4992.05,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 78948.32
+    },
+    {
+        "id": "txn_user_1_28",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Rent payment for August to landlord.",
+        "amount": 28096.06,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 50852.26
+    },
+    {
+        "id": "txn_user_1_29",
+        "userId": "user_1",
+        "date": "2025-09-21",
+        "description": "Sapiente optio delectus consectetur",
+        "amount": 2156.18,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 48696.08
+    },
+    {
+        "id": "txn_user_1_30",
+        "userId": "user_1",
+        "date": "2025-09-12",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 772.36,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 47923.72
+    },
+    {
+        "id": "txn_user_1_31",
+        "userId": "user_1",
+        "date": "2025-09-28",
+        "description": "Monthly salary deposit from Narasimhan-Pillay",
+        "amount": 49451.78,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 97375.5
+    },
+    {
+        "id": "txn_user_1_32",
+        "userId": "user_1",
+        "date": "2025-07-07",
+        "description": "Water bill payment.",
+        "amount": 4789.56,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 92585.93
+    },
+    {
+        "id": "txn_user_1_33",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Dignissimos officia neque quae consequuntur facere",
+        "amount": 6162.21,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 86423.73
+    },
+    {
+        "id": "txn_user_1_34",
+        "userId": "user_1",
+        "date": "2025-07-23",
+        "description": "Eaque velit animi dolore voluptatibus similique nesciunt",
+        "amount": 3212.54,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 83211.19
+    },
+    {
+        "id": "txn_user_1_35",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "Water bill payment.",
+        "amount": 4022.9,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 79188.29
+    },
+    {
+        "id": "txn_user_1_36",
+        "userId": "user_1",
+        "date": "2025-09-05",
+        "description": "Animi possimus voluptate eveniet eos accusamus vero",
+        "amount": 7132.88,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 72055.41
+    },
+    {
+        "id": "txn_user_1_37",
+        "userId": "user_1",
+        "date": "2025-09-08",
+        "description": "Illo distinctio cumque iure nulla vero voluptatem",
+        "amount": 4627.32,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 67428.09
+    },
+    {
+        "id": "txn_user_1_38",
+        "userId": "user_1",
+        "date": "2025-08-09",
+        "description": "Internet bill payment.",
+        "amount": 2721.0,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 64707.09
+    },
+    {
+        "id": "txn_user_1_39",
+        "userId": "user_1",
+        "date": "2025-07-19",
+        "description": "Online purchase from Flipkart.",
+        "amount": 4826.93,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 59880.16
+    },
+    {
+        "id": "txn_user_1_40",
+        "userId": "user_1",
+        "date": "2025-10-01",
+        "description": "Incidunt vero beatae odit iusto",
+        "amount": 7547.8,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 52332.36
+    },
+    {
+        "id": "txn_user_1_41",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 1457.48,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 50874.87
+    },
+    {
+        "id": "txn_user_1_42",
+        "userId": "user_1",
+        "date": "2025-07-23",
+        "description": "Online purchase from Flipkart.",
+        "amount": 5881.16,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 44993.71
+    },
+    {
+        "id": "txn_user_1_43",
+        "userId": "user_1",
+        "date": "2025-07-10",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 110.08,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 44883.63
+    },
+    {
+        "id": "txn_user_1_44",
+        "userId": "user_1",
+        "date": "2025-10-06",
+        "description": "Omnis nulla accusamus",
+        "amount": 7336.48,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 37547.15
+    },
+    {
+        "id": "txn_user_1_45",
+        "userId": "user_1",
+        "date": "2025-09-28",
+        "description": "UPI payment to Swiggy.",
+        "amount": 467.62,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 37079.53
+    },
+    {
+        "id": "txn_user_1_46",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "Monthly salary deposit from Mandal Inc",
+        "amount": 75935.91,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 113015.45
+    },
+    {
+        "id": "txn_user_1_47",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Fuga expedita modi quaerat molestiae pariatur aut",
+        "amount": 901.34,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 112114.1
+    },
+    {
+        "id": "txn_user_1_48",
+        "userId": "user_1",
+        "date": "2025-07-25",
+        "description": "Online purchase from Amazon.",
+        "amount": 8057.4,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 104056.7
+    },
+    {
+        "id": "txn_user_1_49",
+        "userId": "user_1",
+        "date": "2025-07-10",
+        "description": "Quasi corrupti aut libero quibusdam",
+        "amount": 786.67,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 103270.02
+    },
+    {
+        "id": "txn_user_1_50",
+        "userId": "user_1",
+        "date": "2025-09-19",
+        "description": "Online purchase from Amazon.",
+        "amount": 7923.04,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 95346.99
+    },
+    {
+        "id": "txn_user_1_51",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Repudiandae exercitationem quas consequatur",
+        "amount": 6899.29,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 88447.7
+    },
+    {
+        "id": "txn_user_1_52",
+        "userId": "user_1",
+        "date": "2025-09-27",
+        "description": "Rent payment for September to landlord.",
+        "amount": 23983.86,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 64463.84
+    },
+    {
+        "id": "txn_user_1_53",
+        "userId": "user_1",
+        "date": "2025-08-04",
+        "description": "Electricity bill payment.",
+        "amount": 3865.78,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 60598.06
+    },
+    {
+        "id": "txn_user_1_54",
+        "userId": "user_1",
+        "date": "2025-07-22",
+        "description": "Rent payment for July to landlord.",
+        "amount": 34594.61,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 26003.45
+    },
+    {
+        "id": "txn_user_1_55",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 566.85,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 25436.59
+    },
+    {
+        "id": "txn_user_1_56",
+        "userId": "user_1",
+        "date": "2025-07-12",
+        "description": "Officiis saepe excepturi",
+        "amount": 7410.55,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 18026.04
+    },
+    {
+        "id": "txn_user_1_57",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "Electricity bill payment.",
+        "amount": 1847.17,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 16178.87
+    },
+    {
+        "id": "txn_user_1_58",
+        "userId": "user_1",
+        "date": "2025-09-18",
+        "description": "Ducimus aliquid error occaecati corporis",
+        "amount": 781.45,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 15397.42
+    },
+    {
+        "id": "txn_user_1_59",
+        "userId": "user_1",
+        "date": "2025-09-29",
+        "description": "Online purchase from Flipkart.",
+        "amount": 3771.6,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 11625.82
+    },
+    {
+        "id": "txn_user_1_60",
+        "userId": "user_1",
+        "date": "2025-09-06",
+        "description": "Facilis assumenda debitis occaecati aut fugiat",
+        "amount": 458.04,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 11167.78
+    },
+    {
+        "id": "txn_user_1_61",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Monthly salary deposit from Raju, Nayak and Bhargava",
+        "amount": 95901.68,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 107069.45
+    },
+    {
+        "id": "txn_user_1_62",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Internet bill payment.",
+        "amount": 2628.26,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 104441.19
+    },
+    {
+        "id": "txn_user_1_63",
+        "userId": "user_1",
+        "date": "2025-08-20",
+        "description": "Molestiae necessitatibus pariatur consequatur eaque",
+        "amount": 397.68,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 104043.51
+    },
+    {
+        "id": "txn_user_1_64",
+        "userId": "user_1",
+        "date": "2025-08-21",
+        "description": "Facere odit quis ullam",
+        "amount": 582.39,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 103461.12
+    },
+    {
+        "id": "txn_user_1_65",
+        "userId": "user_1",
+        "date": "2025-07-11",
+        "description": "Water bill payment.",
+        "amount": 4889.4,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 98571.73
+    },
+    {
+        "id": "txn_user_1_66",
+        "userId": "user_1",
+        "date": "2025-09-09",
+        "description": "Electricity bill payment.",
+        "amount": 2399.92,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 96171.81
+    },
+    {
+        "id": "txn_user_1_67",
+        "userId": "user_1",
+        "date": "2025-07-08",
+        "description": "UPI payment to Swiggy.",
+        "amount": 448.21,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 95723.6
+    },
+    {
+        "id": "txn_user_1_68",
+        "userId": "user_1",
+        "date": "2025-07-26",
+        "description": "Rent payment for July to landlord.",
+        "amount": 22276.51,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 73447.09
+    },
+    {
+        "id": "txn_user_1_69",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Earum ex deserunt quasi veritatis excepturi",
+        "amount": 4643.08,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 68804.0
+    },
+    {
+        "id": "txn_user_1_70",
+        "userId": "user_1",
+        "date": "2025-07-26",
+        "description": "Online purchase from Myntra.",
+        "amount": 1203.04,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 67600.96
+    },
+    {
+        "id": "txn_user_1_71",
+        "userId": "user_1",
+        "date": "2025-08-03",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 1333.18,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 66267.78
+    },
+    {
+        "id": "txn_user_1_72",
+        "userId": "user_1",
+        "date": "2025-08-15",
+        "description": "Online purchase from Myntra.",
+        "amount": 5249.01,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 61018.77
+    },
+    {
+        "id": "txn_user_1_73",
+        "userId": "user_1",
+        "date": "2025-09-28",
+        "description": "Eligendi ipsum praesentium doloribus velit pariatur",
+        "amount": 4233.25,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 56785.52
+    },
+    {
+        "id": "txn_user_1_74",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "Online purchase from Myntra.",
+        "amount": 3556.56,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 53228.96
+    },
+    {
+        "id": "txn_user_1_75",
+        "userId": "user_1",
+        "date": "2025-07-26",
+        "description": "Doloremque repellat unde nemo nesciunt est",
+        "amount": 2725.7,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 50503.26
+    },
+    {
+        "id": "txn_user_1_76",
+        "userId": "user_1",
+        "date": "2025-07-09",
+        "description": "Monthly salary deposit from Mahal-Gokhale",
+        "amount": 74582.71,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 125085.97
+    },
+    {
+        "id": "txn_user_1_77",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Totam itaque ipsa neque quasi",
+        "amount": 5089.61,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 119996.35
+    },
+    {
+        "id": "txn_user_1_78",
+        "userId": "user_1",
+        "date": "2025-08-12",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1476.5,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 118519.86
+    },
+    {
+        "id": "txn_user_1_79",
+        "userId": "user_1",
+        "date": "2025-09-07",
+        "description": "Architecto esse provident quod fugit accusamus",
+        "amount": 4004.2,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 114515.66
+    },
+    {
+        "id": "txn_user_1_80",
+        "userId": "user_1",
+        "date": "2025-07-27",
+        "description": "Error id inventore corporis",
+        "amount": 6531.67,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 107983.99
+    },
+    {
+        "id": "txn_user_1_81",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Aut illum deleniti rerum perspiciatis",
+        "amount": 4434.1,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 103549.89
+    },
+    {
+        "id": "txn_user_1_82",
+        "userId": "user_1",
+        "date": "2025-07-22",
+        "description": "Quaerat atque non veritatis quibusdam",
+        "amount": 779.42,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 102770.48
+    },
+    {
+        "id": "txn_user_1_83",
+        "userId": "user_1",
+        "date": "2025-07-11",
+        "description": "Internet bill payment.",
+        "amount": 3192.0,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 99578.48
+    },
+    {
+        "id": "txn_user_1_84",
+        "userId": "user_1",
+        "date": "2025-09-22",
+        "description": "Rent payment for September to landlord.",
+        "amount": 33393.06,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 66185.42
+    },
+    {
+        "id": "txn_user_1_85",
+        "userId": "user_1",
+        "date": "2025-09-20",
+        "description": "Online purchase from Flipkart.",
+        "amount": 7215.04,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 58970.38
+    },
+    {
+        "id": "txn_user_1_86",
+        "userId": "user_1",
+        "date": "2025-08-14",
+        "description": "Water bill payment.",
+        "amount": 4441.84,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 54528.54
+    },
+    {
+        "id": "txn_user_1_87",
+        "userId": "user_1",
+        "date": "2025-09-19",
+        "description": "Online purchase from Amazon.",
+        "amount": 8278.1,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 46250.44
+    },
+    {
+        "id": "txn_user_1_88",
+        "userId": "user_1",
+        "date": "2025-09-14",
+        "description": "Online purchase from Myntra.",
+        "amount": 2400.78,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 43849.66
+    },
+    {
+        "id": "txn_user_1_89",
+        "userId": "user_1",
+        "date": "2025-07-27",
+        "description": "Rent payment for July to landlord.",
+        "amount": 20805.33,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 23044.33
+    },
+    {
+        "id": "txn_user_1_90",
+        "userId": "user_1",
+        "date": "2025-09-06",
+        "description": "Rent payment for September to landlord.",
+        "amount": 28541.45,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -5497.12
+    },
+    {
+        "id": "txn_user_1_91",
+        "userId": "user_1",
+        "date": "2025-08-12",
+        "description": "Monthly salary deposit from Oza-Om",
+        "amount": 61790.39,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 56293.27
+    },
+    {
+        "id": "txn_user_1_92",
+        "userId": "user_1",
+        "date": "2025-07-26",
+        "description": "Rent payment for July to landlord.",
+        "amount": 16578.94,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 39714.34
+    },
+    {
+        "id": "txn_user_1_93",
+        "userId": "user_1",
+        "date": "2025-08-12",
+        "description": "Distinctio inventore iusto minima est officiis numquam quod",
+        "amount": 6020.59,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 33693.75
+    },
+    {
+        "id": "txn_user_1_94",
+        "userId": "user_1",
+        "date": "2025-08-07",
+        "description": "Water bill payment.",
+        "amount": 3158.77,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 30534.98
+    },
+    {
+        "id": "txn_user_1_95",
+        "userId": "user_1",
+        "date": "2025-09-30",
+        "description": "Asperiores molestias nostrum excepturi",
+        "amount": 7120.16,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 23414.82
+    },
+    {
+        "id": "txn_user_1_96",
+        "userId": "user_1",
+        "date": "2025-08-18",
+        "description": "Nostrum reprehenderit voluptatibus perspiciatis ea illum eos debitis",
+        "amount": 7236.43,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 16178.39
+    },
+    {
+        "id": "txn_user_1_97",
+        "userId": "user_1",
+        "date": "2025-08-17",
+        "description": "Internet bill payment.",
+        "amount": 2117.5,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 14060.9
+    },
+    {
+        "id": "txn_user_1_98",
+        "userId": "user_1",
+        "date": "2025-09-01",
+        "description": "Natus vitae minus illum rerum pariatur provident",
+        "amount": 3372.84,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 10688.06
+    },
+    {
+        "id": "txn_user_1_99",
+        "userId": "user_1",
+        "date": "2025-09-15",
+        "description": "Quam sunt tempora eaque pariatur cupiditate",
+        "amount": 6727.25,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 3960.81
+    },
+    {
+        "id": "txn_user_1_100",
+        "userId": "user_1",
+        "date": "2025-08-09",
+        "description": "Officiis ratione voluptatum assumenda",
+        "amount": 3389.63,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 571.17
+    },
+    {
+        "id": "txn_user_1_101",
+        "userId": "user_1",
+        "date": "2025-07-16",
+        "description": "Mollitia voluptate quam maxime",
+        "amount": 6973.01,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -6401.83
+    },
+    {
+        "id": "txn_user_1_102",
+        "userId": "user_1",
+        "date": "2025-09-02",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1173.39,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -7575.22
+    },
+    {
+        "id": "txn_user_1_103",
+        "userId": "user_1",
+        "date": "2025-08-22",
+        "description": "Dolorem vel nesciunt illum labore maxime corrupti",
+        "amount": 2234.21,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -9809.43
+    },
+    {
+        "id": "txn_user_1_104",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Rent payment for September to landlord.",
+        "amount": 29016.46,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -38825.88
+    },
+    {
+        "id": "txn_user_1_105",
+        "userId": "user_1",
+        "date": "2025-09-17",
+        "description": "Water bill payment.",
+        "amount": 1257.04,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -40082.92
+    },
+    {
+        "id": "txn_user_1_106",
+        "userId": "user_1",
+        "date": "2025-08-11",
+        "description": "Monthly salary deposit from Dugar-Chowdhury",
+        "amount": 93537.61,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 53454.69
+    },
+    {
+        "id": "txn_user_1_107",
+        "userId": "user_1",
+        "date": "2025-08-15",
+        "description": "Online purchase from Myntra.",
+        "amount": 4074.12,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 49380.56
+    },
+    {
+        "id": "txn_user_1_108",
+        "userId": "user_1",
+        "date": "2025-08-01",
+        "description": "Consectetur nostrum quas fugit nostrum cum reprehenderit",
+        "amount": 1609.95,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 47770.61
+    },
+    {
+        "id": "txn_user_1_109",
+        "userId": "user_1",
+        "date": "2025-07-30",
+        "description": "Beatae necessitatibus dolores exercitationem veritatis cupiditate",
+        "amount": 4231.55,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 43539.06
+    },
+    {
+        "id": "txn_user_1_110",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Dolor quae sit",
+        "amount": 7761.47,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 35777.59
+    },
+    {
+        "id": "txn_user_1_111",
+        "userId": "user_1",
+        "date": "2025-07-27",
+        "description": "Internet bill payment.",
+        "amount": 4139.26,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 31638.33
+    },
+    {
+        "id": "txn_user_1_112",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "Water bill payment.",
+        "amount": 3434.92,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 28203.41
+    },
+    {
+        "id": "txn_user_1_113",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Online purchase from Myntra.",
+        "amount": 3124.67,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 25078.73
+    },
+    {
+        "id": "txn_user_1_114",
+        "userId": "user_1",
+        "date": "2025-09-11",
+        "description": "Online purchase from Myntra.",
+        "amount": 3199.91,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 21878.82
+    },
+    {
+        "id": "txn_user_1_115",
+        "userId": "user_1",
+        "date": "2025-08-17",
+        "description": "Quisquam ipsa aspernatur error eos",
+        "amount": 2540.8,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 19338.03
+    },
+    {
+        "id": "txn_user_1_116",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Rent payment for August to landlord.",
+        "amount": 25671.68,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -6333.65
+    },
+    {
+        "id": "txn_user_1_117",
+        "userId": "user_1",
+        "date": "2025-09-24",
+        "description": "Aliquam mollitia repellendus consequuntur cumque",
+        "amount": 7700.05,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -14033.7
+    },
+    {
+        "id": "txn_user_1_118",
+        "userId": "user_1",
+        "date": "2025-08-10",
+        "description": "Dolores accusamus nulla non tempore",
+        "amount": 6710.41,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -20744.11
+    },
+    {
+        "id": "txn_user_1_119",
+        "userId": "user_1",
+        "date": "2025-09-12",
+        "description": "Rent payment for September to landlord.",
+        "amount": 33691.87,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -54435.99
+    },
+    {
+        "id": "txn_user_1_120",
+        "userId": "user_1",
+        "date": "2025-09-20",
+        "description": "Internet bill payment.",
+        "amount": 3945.29,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -58381.28
+    },
+    {
+        "id": "txn_user_1_121",
+        "userId": "user_1",
+        "date": "2025-09-05",
+        "description": "Monthly salary deposit from Ramanathan-Ahuja",
+        "amount": 62897.66,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 4516.39
+    },
+    {
+        "id": "txn_user_1_122",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "Rent payment for July to landlord.",
+        "amount": 26381.5,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -21865.11
+    },
+    {
+        "id": "txn_user_1_123",
+        "userId": "user_1",
+        "date": "2025-08-28",
+        "description": "UPI payment to Swiggy.",
+        "amount": 729.65,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -22594.76
+    },
+    {
+        "id": "txn_user_1_124",
+        "userId": "user_1",
+        "date": "2025-07-13",
+        "description": "Blanditiis fugit repellendus sequi porro",
+        "amount": 5346.03,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -27940.79
+    },
+    {
+        "id": "txn_user_1_125",
+        "userId": "user_1",
+        "date": "2025-09-04",
+        "description": "Saepe quibusdam consectetur inventore",
+        "amount": 5727.93,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -33668.72
+    },
+    {
+        "id": "txn_user_1_126",
+        "userId": "user_1",
+        "date": "2025-09-22",
+        "description": "Magni voluptatem reiciendis in ab",
+        "amount": 4099.68,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -37768.4
+    },
+    {
+        "id": "txn_user_1_127",
+        "userId": "user_1",
+        "date": "2025-07-13",
+        "description": "Sequi nam quam consequatur",
+        "amount": 2346.22,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -40114.62
+    },
+    {
+        "id": "txn_user_1_128",
+        "userId": "user_1",
+        "date": "2025-09-23",
+        "description": "Online purchase from Amazon.",
+        "amount": 3257.95,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -43372.57
+    },
+    {
+        "id": "txn_user_1_129",
+        "userId": "user_1",
+        "date": "2025-09-03",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 479.59,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -43852.16
+    },
+    {
+        "id": "txn_user_1_130",
+        "userId": "user_1",
+        "date": "2025-10-04",
+        "description": "Internet bill payment.",
+        "amount": 4072.72,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -47924.88
+    },
+    {
+        "id": "txn_user_1_131",
+        "userId": "user_1",
+        "date": "2025-07-21",
+        "description": "Water bill payment.",
+        "amount": 3030.51,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -50955.38
+    },
+    {
+        "id": "txn_user_1_132",
+        "userId": "user_1",
+        "date": "2025-08-20",
+        "description": "UPI payment to Zomato.",
+        "amount": 1320.63,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -52276.02
+    },
+    {
+        "id": "txn_user_1_133",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Internet bill payment.",
+        "amount": 4194.79,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -56470.81
+    },
+    {
+        "id": "txn_user_1_134",
+        "userId": "user_1",
+        "date": "2025-08-15",
+        "description": "UPI payment to Swiggy.",
+        "amount": 943.36,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -57414.17
+    },
+    {
+        "id": "txn_user_1_135",
+        "userId": "user_1",
+        "date": "2025-07-25",
+        "description": "Online purchase from Amazon.",
+        "amount": 9923.08,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -67337.25
+    },
+    {
+        "id": "txn_user_1_136",
+        "userId": "user_1",
+        "date": "2025-09-28",
+        "description": "Monthly salary deposit from Issac Inc",
+        "amount": 55452.28,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -11884.98
+    },
+    {
+        "id": "txn_user_1_137",
+        "userId": "user_1",
+        "date": "2025-08-25",
+        "description": "Deleniti consequuntur earum",
+        "amount": 1474.13,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -13359.11
+    },
+    {
+        "id": "txn_user_1_138",
+        "userId": "user_1",
+        "date": "2025-09-27",
+        "description": "Online purchase from Myntra.",
+        "amount": 8183.2,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -21542.31
+    },
+    {
+        "id": "txn_user_1_139",
+        "userId": "user_1",
+        "date": "2025-07-29",
+        "description": "Reiciendis at animi et laudantium sit omnis",
+        "amount": 3225.14,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -24767.45
+    },
+    {
+        "id": "txn_user_1_140",
+        "userId": "user_1",
+        "date": "2025-08-25",
+        "description": "Rent payment for August to landlord.",
+        "amount": 29347.81,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -54115.26
+    },
+    {
+        "id": "txn_user_1_141",
+        "userId": "user_1",
+        "date": "2025-08-20",
+        "description": "Rent payment for August to landlord.",
+        "amount": 33581.08,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -87696.34
+    },
+    {
+        "id": "txn_user_1_142",
+        "userId": "user_1",
+        "date": "2025-08-19",
+        "description": "Pariatur consectetur vero quam quis",
+        "amount": 2394.23,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -90090.57
+    },
+    {
+        "id": "txn_user_1_143",
+        "userId": "user_1",
+        "date": "2025-09-03",
+        "description": "Rent payment for September to landlord.",
+        "amount": 16494.5,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -106585.07
+    },
+    {
+        "id": "txn_user_1_144",
+        "userId": "user_1",
+        "date": "2025-08-25",
+        "description": "Voluptate cumque maiores iure quod illo",
+        "amount": 2713.59,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -109298.66
+    },
+    {
+        "id": "txn_user_1_145",
+        "userId": "user_1",
+        "date": "2025-07-25",
+        "description": "UPI payment to Zomato.",
+        "amount": 1474.79,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -110773.45
+    },
+    {
+        "id": "txn_user_1_146",
+        "userId": "user_1",
+        "date": "2025-09-26",
+        "description": "Online purchase from Myntra.",
+        "amount": 5473.75,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -116247.2
+    },
+    {
+        "id": "txn_user_1_147",
+        "userId": "user_1",
+        "date": "2025-07-31",
+        "description": "UPI payment to Zomato.",
+        "amount": 1412.71,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -117659.91
+    },
+    {
+        "id": "txn_user_1_148",
+        "userId": "user_1",
+        "date": "2025-08-08",
+        "description": "UPI payment to Swiggy.",
+        "amount": 723.18,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -118383.09
+    },
+    {
+        "id": "txn_user_1_149",
+        "userId": "user_1",
+        "date": "2025-09-25",
+        "description": "Rent payment for September to landlord.",
+        "amount": 23765.82,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -142148.91
+    },
+    {
+        "id": "txn_user_1_150",
+        "userId": "user_1",
+        "date": "2025-07-15",
+        "description": "Online purchase from Myntra.",
+        "amount": 5268.7,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -147417.62
+    },
+    {
+        "id": "txn_user_2_1",
+        "userId": "user_2",
+        "date": "2025-08-13",
+        "description": "Monthly salary deposit from Sandal and Sons",
+        "amount": 70439.65,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 125625.93
+    },
+    {
+        "id": "txn_user_2_2",
+        "userId": "user_2",
+        "date": "2025-09-14",
+        "description": "Online purchase from Flipkart.",
+        "amount": 4530.41,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 121095.52
+    },
+    {
+        "id": "txn_user_2_3",
+        "userId": "user_2",
+        "date": "2025-07-22",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 243.12,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 120852.41
+    },
+    {
+        "id": "txn_user_2_4",
+        "userId": "user_2",
+        "date": "2025-07-24",
+        "description": "Online purchase from Flipkart.",
+        "amount": 3406.69,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 117445.72
+    },
+    {
+        "id": "txn_user_2_5",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Electricity bill payment.",
+        "amount": 4352.78,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 113092.94
+    },
+    {
+        "id": "txn_user_2_6",
+        "userId": "user_2",
+        "date": "2025-08-22",
+        "description": "Rent payment for August to landlord.",
+        "amount": 16503.14,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 96589.79
+    },
+    {
+        "id": "txn_user_2_7",
+        "userId": "user_2",
+        "date": "2025-08-22",
+        "description": "UPI payment to Swiggy.",
+        "amount": 599.18,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 95990.61
+    },
+    {
+        "id": "txn_user_2_8",
+        "userId": "user_2",
+        "date": "2025-10-06",
+        "description": "Online purchase from Amazon.",
+        "amount": 4847.16,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 91143.45
+    },
+    {
+        "id": "txn_user_2_9",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Online purchase from Amazon.",
+        "amount": 5484.17,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 85659.28
+    },
+    {
+        "id": "txn_user_2_10",
+        "userId": "user_2",
+        "date": "2025-07-29",
+        "description": "Online purchase from Flipkart.",
+        "amount": 2675.71,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 82983.57
+    },
+    {
+        "id": "txn_user_2_11",
+        "userId": "user_2",
+        "date": "2025-09-21",
+        "description": "Natus cupiditate amet aut",
+        "amount": 1572.52,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 81411.05
+    },
+    {
+        "id": "txn_user_2_12",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Rent payment for August to landlord.",
+        "amount": 30587.9,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 50823.15
+    },
+    {
+        "id": "txn_user_2_13",
+        "userId": "user_2",
+        "date": "2025-07-11",
+        "description": "UPI payment to Zomato.",
+        "amount": 449.19,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 50373.96
+    },
+    {
+        "id": "txn_user_2_14",
+        "userId": "user_2",
+        "date": "2025-08-30",
+        "description": "Rent payment for August to landlord.",
+        "amount": 28055.54,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 22318.41
+    },
+    {
+        "id": "txn_user_2_15",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Quae omnis nihil earum eligendi libero repudiandae facilis",
+        "amount": 3156.61,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 19161.8
+    },
+    {
+        "id": "txn_user_2_16",
+        "userId": "user_2",
+        "date": "2025-07-27",
+        "description": "Monthly salary deposit from Mukhopadhyay-Bandi",
+        "amount": 67815.25,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 86977.05
+    },
+    {
+        "id": "txn_user_2_17",
+        "userId": "user_2",
+        "date": "2025-09-12",
+        "description": "Similique facilis ab rerum voluptate reiciendis",
+        "amount": 3466.36,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 83510.69
+    },
+    {
+        "id": "txn_user_2_18",
+        "userId": "user_2",
+        "date": "2025-09-22",
+        "description": "Rent payment for September to landlord.",
+        "amount": 26571.99,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 56938.7
+    },
+    {
+        "id": "txn_user_2_19",
+        "userId": "user_2",
+        "date": "2025-09-27",
+        "description": "Minus laboriosam error omnis similique",
+        "amount": 3866.53,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 53072.17
+    },
+    {
+        "id": "txn_user_2_20",
+        "userId": "user_2",
+        "date": "2025-09-12",
+        "description": "Ea aliquam ab occaecati consectetur",
+        "amount": 5164.48,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 47907.69
+    },
+    {
+        "id": "txn_user_2_21",
+        "userId": "user_2",
+        "date": "2025-08-11",
+        "description": "UPI payment to Zomato.",
+        "amount": 649.65,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 47258.04
+    },
+    {
+        "id": "txn_user_2_22",
+        "userId": "user_2",
+        "date": "2025-07-17",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 591.87,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 46666.16
+    },
+    {
+        "id": "txn_user_2_23",
+        "userId": "user_2",
+        "date": "2025-09-17",
+        "description": "Aspernatur reiciendis nihil veniam cum quidem",
+        "amount": 1478.14,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 45188.02
+    },
+    {
+        "id": "txn_user_2_24",
+        "userId": "user_2",
+        "date": "2025-09-27",
+        "description": "Rent payment for September to landlord.",
+        "amount": 33778.28,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 11409.74
+    },
+    {
+        "id": "txn_user_2_25",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "UPI payment to Zomato.",
+        "amount": 140.31,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 11269.43
+    },
+    {
+        "id": "txn_user_2_26",
+        "userId": "user_2",
+        "date": "2025-08-01",
+        "description": "Electricity bill payment.",
+        "amount": 4615.95,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 6653.48
+    },
+    {
+        "id": "txn_user_2_27",
+        "userId": "user_2",
+        "date": "2025-09-19",
+        "description": "Ad perspiciatis vel est fugit fugit deleniti totam",
+        "amount": 5119.68,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 1533.8
+    },
+    {
+        "id": "txn_user_2_28",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Repellendus iusto rem architecto quisquam accusantium",
+        "amount": 6868.58,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -5334.78
+    },
+    {
+        "id": "txn_user_2_29",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Rent payment for August to landlord.",
+        "amount": 17568.32,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -22903.1
+    },
+    {
+        "id": "txn_user_2_30",
+        "userId": "user_2",
+        "date": "2025-07-30",
+        "description": "Rent payment for July to landlord.",
+        "amount": 32408.08,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -55311.18
+    },
+    {
+        "id": "txn_user_2_31",
+        "userId": "user_2",
+        "date": "2025-07-29",
+        "description": "Monthly salary deposit from Chandra LLC",
+        "amount": 87057.8,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 31746.61
+    },
+    {
+        "id": "txn_user_2_32",
+        "userId": "user_2",
+        "date": "2025-09-20",
+        "description": "Autem illo quibusdam",
+        "amount": 3586.03,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 28160.58
+    },
+    {
+        "id": "txn_user_2_33",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Ea neque dignissimos nam animi praesentium",
+        "amount": 4208.27,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 23952.31
+    },
+    {
+        "id": "txn_user_2_34",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Quo minus quis beatae asperiores fuga excepturi",
+        "amount": 2109.5,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 21842.81
+    },
+    {
+        "id": "txn_user_2_35",
+        "userId": "user_2",
+        "date": "2025-09-25",
+        "description": "Online purchase from Flipkart.",
+        "amount": 6011.7,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 15831.11
+    },
+    {
+        "id": "txn_user_2_36",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Omnis repudiandae nesciunt saepe vel laudantium",
+        "amount": 6837.37,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 8993.74
+    },
+    {
+        "id": "txn_user_2_37",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Impedit est et distinctio alias",
+        "amount": 1694.07,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 7299.67
+    },
+    {
+        "id": "txn_user_2_38",
+        "userId": "user_2",
+        "date": "2025-09-28",
+        "description": "Rent payment for September to landlord.",
+        "amount": 15818.24,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -8518.57
+    },
+    {
+        "id": "txn_user_2_39",
+        "userId": "user_2",
+        "date": "2025-09-13",
+        "description": "Internet bill payment.",
+        "amount": 3274.01,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -11792.59
+    },
+    {
+        "id": "txn_user_2_40",
+        "userId": "user_2",
+        "date": "2025-08-28",
+        "description": "Online purchase from Myntra.",
+        "amount": 9595.16,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -21387.74
+    },
+    {
+        "id": "txn_user_2_41",
+        "userId": "user_2",
+        "date": "2025-09-22",
+        "description": "Rent payment for September to landlord.",
+        "amount": 15032.68,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -36420.43
+    },
+    {
+        "id": "txn_user_2_42",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Online purchase from Amazon.",
+        "amount": 2882.29,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -39302.72
+    },
+    {
+        "id": "txn_user_2_43",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Voluptas quidem quasi iste maxime",
+        "amount": 3017.43,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -42320.15
+    },
+    {
+        "id": "txn_user_2_44",
+        "userId": "user_2",
+        "date": "2025-08-26",
+        "description": "Online purchase from Amazon.",
+        "amount": 5760.87,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -48081.02
+    },
+    {
+        "id": "txn_user_2_45",
+        "userId": "user_2",
+        "date": "2025-08-04",
+        "description": "Dolor laboriosam ab nulla",
+        "amount": 5304.67,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -53385.69
+    },
+    {
+        "id": "txn_user_2_46",
+        "userId": "user_2",
+        "date": "2025-09-18",
+        "description": "Monthly salary deposit from Narayan-Patil",
+        "amount": 58160.55,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 4774.87
+    },
+    {
+        "id": "txn_user_2_47",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Amet minima ullam modi animi suscipit",
+        "amount": 2602.85,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 2172.01
+    },
+    {
+        "id": "txn_user_2_48",
+        "userId": "user_2",
+        "date": "2025-08-27",
+        "description": "Cum et pariatur voluptatum incidunt",
+        "amount": 4258.37,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -2086.35
+    },
+    {
+        "id": "txn_user_2_49",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "Mollitia sunt sint laudantium quae commodi soluta asperiores",
+        "amount": 1800.24,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -3886.59
+    },
+    {
+        "id": "txn_user_2_50",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Cumque repellendus eos itaque eligendi",
+        "amount": 5916.85,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -9803.44
+    },
+    {
+        "id": "txn_user_2_51",
+        "userId": "user_2",
+        "date": "2025-09-08",
+        "description": "Saepe maxime doloribus officiis officiis",
+        "amount": 1444.08,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -11247.52
+    },
+    {
+        "id": "txn_user_2_52",
+        "userId": "user_2",
+        "date": "2025-07-24",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 268.02,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -11515.54
+    },
+    {
+        "id": "txn_user_2_53",
+        "userId": "user_2",
+        "date": "2025-07-15",
+        "description": "Qui maiores occaecati",
+        "amount": 7763.08,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -19278.63
+    },
+    {
+        "id": "txn_user_2_54",
+        "userId": "user_2",
+        "date": "2025-07-22",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 796.4,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -20075.03
+    },
+    {
+        "id": "txn_user_2_55",
+        "userId": "user_2",
+        "date": "2025-09-01",
+        "description": "Magnam ipsa quas",
+        "amount": 7224.79,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -27299.82
+    },
+    {
+        "id": "txn_user_2_56",
+        "userId": "user_2",
+        "date": "2025-08-13",
+        "description": "Water bill payment.",
+        "amount": 3602.6,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -30902.42
+    },
+    {
+        "id": "txn_user_2_57",
+        "userId": "user_2",
+        "date": "2025-08-25",
+        "description": "Water bill payment.",
+        "amount": 4353.79,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -35256.21
+    },
+    {
+        "id": "txn_user_2_58",
+        "userId": "user_2",
+        "date": "2025-08-05",
+        "description": "Online purchase from Amazon.",
+        "amount": 8935.32,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -44191.53
+    },
+    {
+        "id": "txn_user_2_59",
+        "userId": "user_2",
+        "date": "2025-07-19",
+        "description": "Rent payment for July to landlord.",
+        "amount": 17462.15,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -61653.68
+    },
+    {
+        "id": "txn_user_2_60",
+        "userId": "user_2",
+        "date": "2025-08-18",
+        "description": "Electricity bill payment.",
+        "amount": 2987.1,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -64640.78
+    },
+    {
+        "id": "txn_user_2_61",
+        "userId": "user_2",
+        "date": "2025-08-09",
+        "description": "Monthly salary deposit from Boase PLC",
+        "amount": 67893.56,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 3252.78
+    },
+    {
+        "id": "txn_user_2_62",
+        "userId": "user_2",
+        "date": "2025-07-22",
+        "description": "Quidem repellat animi",
+        "amount": 6019.34,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -2766.56
+    },
+    {
+        "id": "txn_user_2_63",
+        "userId": "user_2",
+        "date": "2025-09-24",
+        "description": "Rent payment for September to landlord.",
+        "amount": 17009.52,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -19776.08
+    },
+    {
+        "id": "txn_user_2_64",
+        "userId": "user_2",
+        "date": "2025-08-13",
+        "description": "Expedita necessitatibus natus fugit",
+        "amount": 7234.39,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -27010.47
+    },
+    {
+        "id": "txn_user_2_65",
+        "userId": "user_2",
+        "date": "2025-09-15",
+        "description": "Online purchase from Myntra.",
+        "amount": 3115.83,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -30126.3
+    },
+    {
+        "id": "txn_user_2_66",
+        "userId": "user_2",
+        "date": "2025-09-01",
+        "description": "Dolorem at corrupti cum",
+        "amount": 2418.78,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -32545.08
+    },
+    {
+        "id": "txn_user_2_67",
+        "userId": "user_2",
+        "date": "2025-07-12",
+        "description": "UPI payment to Swiggy.",
+        "amount": 287.66,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -32832.74
+    },
+    {
+        "id": "txn_user_2_68",
+        "userId": "user_2",
+        "date": "2025-08-17",
+        "description": "UPI payment to Zomato.",
+        "amount": 1302.78,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -34135.52
+    },
+    {
+        "id": "txn_user_2_69",
+        "userId": "user_2",
+        "date": "2025-07-30",
+        "description": "Iure adipisci esse laboriosam dolor voluptatum accusamus",
+        "amount": 4620.61,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -38756.13
+    },
+    {
+        "id": "txn_user_2_70",
+        "userId": "user_2",
+        "date": "2025-08-25",
+        "description": "Water bill payment.",
+        "amount": 2842.69,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -41598.82
+    },
+    {
+        "id": "txn_user_2_71",
+        "userId": "user_2",
+        "date": "2025-09-06",
+        "description": "Internet bill payment.",
+        "amount": 2982.48,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -44581.29
+    },
+    {
+        "id": "txn_user_2_72",
+        "userId": "user_2",
+        "date": "2025-09-02",
+        "description": "Velit vel eaque numquam ab quis laboriosam temporibus",
+        "amount": 2581.24,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -47162.53
+    },
+    {
+        "id": "txn_user_2_73",
+        "userId": "user_2",
+        "date": "2025-09-26",
+        "description": "Error totam aperiam",
+        "amount": 1383.21,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -48545.74
+    },
+    {
+        "id": "txn_user_2_74",
+        "userId": "user_2",
+        "date": "2025-07-10",
+        "description": "Rent payment for July to landlord.",
+        "amount": 22479.6,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -71025.35
+    },
+    {
+        "id": "txn_user_2_75",
+        "userId": "user_2",
+        "date": "2025-08-12",
+        "description": "Water bill payment.",
+        "amount": 4718.84,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -75744.19
+    },
+    {
+        "id": "txn_user_2_76",
+        "userId": "user_2",
+        "date": "2025-09-08",
+        "description": "Monthly salary deposit from Bala and Sons",
+        "amount": 67881.48,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -7862.71
+    },
+    {
+        "id": "txn_user_2_77",
+        "userId": "user_2",
+        "date": "2025-09-07",
+        "description": "Online purchase from Flipkart.",
+        "amount": 2737.84,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -10600.55
+    },
+    {
+        "id": "txn_user_2_78",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "Animi consectetur facilis ad vitae",
+        "amount": 6350.93,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -16951.47
+    },
+    {
+        "id": "txn_user_2_79",
+        "userId": "user_2",
+        "date": "2025-08-31",
+        "description": "Eaque eligendi consectetur",
+        "amount": 2275.56,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -19227.03
+    },
+    {
+        "id": "txn_user_2_80",
+        "userId": "user_2",
+        "date": "2025-07-24",
+        "description": "Sapiente iste dicta magnam eius inventore",
+        "amount": 4788.53,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -24015.55
+    },
+    {
+        "id": "txn_user_2_81",
+        "userId": "user_2",
+        "date": "2025-08-08",
+        "description": "Online purchase from Amazon.",
+        "amount": 8539.34,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -32554.9
+    },
+    {
+        "id": "txn_user_2_82",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Online purchase from Myntra.",
+        "amount": 2733.31,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -35288.21
+    },
+    {
+        "id": "txn_user_2_83",
+        "userId": "user_2",
+        "date": "2025-07-28",
+        "description": "Rent payment for July to landlord.",
+        "amount": 29518.89,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -64807.1
+    },
+    {
+        "id": "txn_user_2_84",
+        "userId": "user_2",
+        "date": "2025-07-28",
+        "description": "Distinctio optio quae perspiciatis eum quos libero accusamus",
+        "amount": 7078.82,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -71885.91
+    },
+    {
+        "id": "txn_user_2_85",
+        "userId": "user_2",
+        "date": "2025-07-16",
+        "description": "Illum eum esse excepturi repellat amet",
+        "amount": 2325.14,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -74211.06
+    },
+    {
+        "id": "txn_user_2_86",
+        "userId": "user_2",
+        "date": "2025-08-14",
+        "description": "Enim aspernatur quaerat earum cum reprehenderit",
+        "amount": 3401.86,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -77612.92
+    },
+    {
+        "id": "txn_user_2_87",
+        "userId": "user_2",
+        "date": "2025-08-14",
+        "description": "Eligendi magni tenetur a recusandae quas laboriosam",
+        "amount": 5123.92,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -82736.84
+    },
+    {
+        "id": "txn_user_2_88",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Delectus libero amet vel voluptatem molestiae ratione",
+        "amount": 2725.88,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -85462.72
+    },
+    {
+        "id": "txn_user_2_89",
+        "userId": "user_2",
+        "date": "2025-08-30",
+        "description": "Rent payment for August to landlord.",
+        "amount": 29342.14,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -114804.85
+    },
+    {
+        "id": "txn_user_2_90",
+        "userId": "user_2",
+        "date": "2025-09-03",
+        "description": "Rent payment for September to landlord.",
+        "amount": 25456.0,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -140260.85
+    },
+    {
+        "id": "txn_user_2_91",
+        "userId": "user_2",
+        "date": "2025-07-28",
+        "description": "Monthly salary deposit from Dyal, Sood and Soman",
+        "amount": 43294.68,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -96966.17
+    },
+    {
+        "id": "txn_user_2_92",
+        "userId": "user_2",
+        "date": "2025-08-22",
+        "description": "Sapiente optio quod id earum",
+        "amount": 5109.58,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -102075.75
+    },
+    {
+        "id": "txn_user_2_93",
+        "userId": "user_2",
+        "date": "2025-08-31",
+        "description": "Recusandae inventore sit",
+        "amount": 1603.97,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -103679.72
+    },
+    {
+        "id": "txn_user_2_94",
+        "userId": "user_2",
+        "date": "2025-09-08",
+        "description": "Reiciendis omnis harum facilis minus molestias eveniet",
+        "amount": 4772.11,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -108451.83
+    },
+    {
+        "id": "txn_user_2_95",
+        "userId": "user_2",
+        "date": "2025-07-25",
+        "description": "Rent payment for July to landlord.",
+        "amount": 19105.98,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -127557.81
+    },
+    {
+        "id": "txn_user_2_96",
+        "userId": "user_2",
+        "date": "2025-08-20",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 407.73,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -127965.53
+    },
+    {
+        "id": "txn_user_2_97",
+        "userId": "user_2",
+        "date": "2025-07-13",
+        "description": "Qui quisquam dolor veritatis debitis",
+        "amount": 909.59,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -128875.12
+    },
+    {
+        "id": "txn_user_2_98",
+        "userId": "user_2",
+        "date": "2025-09-09",
+        "description": "Excepturi itaque eligendi officia dolorem",
+        "amount": 5528.78,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -134403.9
+    },
+    {
+        "id": "txn_user_2_99",
+        "userId": "user_2",
+        "date": "2025-09-18",
+        "description": "Rent payment for September to landlord.",
+        "amount": 20344.79,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -154748.68
+    },
+    {
+        "id": "txn_user_2_100",
+        "userId": "user_2",
+        "date": "2025-07-09",
+        "description": "Harum porro occaecati atque expedita",
+        "amount": 2281.42,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -157030.11
+    },
+    {
+        "id": "txn_user_2_101",
+        "userId": "user_2",
+        "date": "2025-07-18",
+        "description": "Online purchase from Flipkart.",
+        "amount": 4747.84,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -161777.94
+    },
+    {
+        "id": "txn_user_2_102",
+        "userId": "user_2",
+        "date": "2025-08-23",
+        "description": "Quae officiis unde minima est",
+        "amount": 1133.2,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -162911.14
+    },
+    {
+        "id": "txn_user_2_103",
+        "userId": "user_2",
+        "date": "2025-08-06",
+        "description": "Online purchase from Amazon.",
+        "amount": 6908.8,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -169819.95
+    },
+    {
+        "id": "txn_user_2_104",
+        "userId": "user_2",
+        "date": "2025-07-19",
+        "description": "Internet bill payment.",
+        "amount": 1956.66,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -171776.61
+    },
+    {
+        "id": "txn_user_2_105",
+        "userId": "user_2",
+        "date": "2025-07-14",
+        "description": "Online purchase from Myntra.",
+        "amount": 4210.46,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -175987.07
+    },
+    {
+        "id": "txn_user_2_106",
+        "userId": "user_2",
+        "date": "2025-08-16",
+        "description": "Monthly salary deposit from Madan-Ray",
+        "amount": 46075.74,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -129911.33
+    },
+    {
+        "id": "txn_user_2_107",
+        "userId": "user_2",
+        "date": "2025-09-14",
+        "description": "Ad earum cumque nobis velit",
+        "amount": 1516.12,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -131427.45
+    },
+    {
+        "id": "txn_user_2_108",
+        "userId": "user_2",
+        "date": "2025-07-17",
+        "description": "Eum dicta veritatis nam tempore",
+        "amount": 7530.24,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -138957.69
+    },
+    {
+        "id": "txn_user_2_109",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Rent payment for August to landlord.",
+        "amount": 22852.76,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -161810.44
+    },
+    {
+        "id": "txn_user_2_110",
+        "userId": "user_2",
+        "date": "2025-09-03",
+        "description": "Tenetur deserunt non voluptates hic",
+        "amount": 1233.8,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -163044.24
+    },
+    {
+        "id": "txn_user_2_111",
+        "userId": "user_2",
+        "date": "2025-08-11",
+        "description": "Inventore praesentium in aperiam",
+        "amount": 3820.74,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -166864.98
+    },
+    {
+        "id": "txn_user_2_112",
+        "userId": "user_2",
+        "date": "2025-08-15",
+        "description": "Molestiae ducimus facilis omnis maxime nemo",
+        "amount": 6019.19,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -172884.17
+    },
+    {
+        "id": "txn_user_2_113",
+        "userId": "user_2",
+        "date": "2025-08-02",
+        "description": "Quia mollitia labore repellendus minus minus ratione optio",
+        "amount": 6851.67,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -179735.84
+    },
+    {
+        "id": "txn_user_2_114",
+        "userId": "user_2",
+        "date": "2025-08-18",
+        "description": "Internet bill payment.",
+        "amount": 3485.9,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -183221.73
+    },
+    {
+        "id": "txn_user_2_115",
+        "userId": "user_2",
+        "date": "2025-07-30",
+        "description": "Quae sunt explicabo saepe dolorem",
+        "amount": 6144.72,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -189366.45
+    },
+    {
+        "id": "txn_user_2_116",
+        "userId": "user_2",
+        "date": "2025-07-26",
+        "description": "Rerum molestiae libero eum deserunt blanditiis",
+        "amount": 924.76,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -190291.21
+    },
+    {
+        "id": "txn_user_2_117",
+        "userId": "user_2",
+        "date": "2025-07-15",
+        "description": "Quia sunt architecto",
+        "amount": 6287.07,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -196578.29
+    },
+    {
+        "id": "txn_user_2_118",
+        "userId": "user_2",
+        "date": "2025-08-15",
+        "description": "Rent payment for August to landlord.",
+        "amount": 31367.46,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -227945.75
+    },
+    {
+        "id": "txn_user_2_119",
+        "userId": "user_2",
+        "date": "2025-09-10",
+        "description": "Illo consequuntur error facere",
+        "amount": 5142.88,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -233088.64
+    },
+    {
+        "id": "txn_user_2_120",
+        "userId": "user_2",
+        "date": "2025-10-05",
+        "description": "Excepturi officiis est minima dignissimos ratione",
+        "amount": 1274.81,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -234363.45
+    },
+    {
+        "id": "txn_user_2_121",
+        "userId": "user_2",
+        "date": "2025-08-19",
+        "description": "Monthly salary deposit from Gulati Group",
+        "amount": 76122.76,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -158240.69
+    },
+    {
+        "id": "txn_user_2_122",
+        "userId": "user_2",
+        "date": "2025-08-22",
+        "description": "Electricity bill payment.",
+        "amount": 4555.72,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -162796.41
+    },
+    {
+        "id": "txn_user_2_123",
+        "userId": "user_2",
+        "date": "2025-08-04",
+        "description": "UPI payment to Swiggy.",
+        "amount": 398.22,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -163194.63
+    },
+    {
+        "id": "txn_user_2_124",
+        "userId": "user_2",
+        "date": "2025-08-11",
+        "description": "Rent payment for August to landlord.",
+        "amount": 27033.5,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -190228.12
+    },
+    {
+        "id": "txn_user_2_125",
+        "userId": "user_2",
+        "date": "2025-08-09",
+        "description": "Inventore possimus repellat impedit vitae",
+        "amount": 811.77,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -191039.89
+    },
+    {
+        "id": "txn_user_2_126",
+        "userId": "user_2",
+        "date": "2025-07-17",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 102.77,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -191142.66
+    },
+    {
+        "id": "txn_user_2_127",
+        "userId": "user_2",
+        "date": "2025-08-07",
+        "description": "Veniam impedit aut ad",
+        "amount": 6559.12,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -197701.77
+    },
+    {
+        "id": "txn_user_2_128",
+        "userId": "user_2",
+        "date": "2025-09-19",
+        "description": "Repellat culpa dolores laudantium",
+        "amount": 4931.42,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -202633.19
+    },
+    {
+        "id": "txn_user_2_129",
+        "userId": "user_2",
+        "date": "2025-07-27",
+        "description": "Rent payment for July to landlord.",
+        "amount": 31205.8,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -233838.99
+    },
+    {
+        "id": "txn_user_2_130",
+        "userId": "user_2",
+        "date": "2025-08-21",
+        "description": "Rent payment for August to landlord.",
+        "amount": 21942.41,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -255781.4
+    },
+    {
+        "id": "txn_user_2_131",
+        "userId": "user_2",
+        "date": "2025-09-22",
+        "description": "Water bill payment.",
+        "amount": 3831.57,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -259612.97
+    },
+    {
+        "id": "txn_user_2_132",
+        "userId": "user_2",
+        "date": "2025-09-29",
+        "description": "Doloribus reprehenderit quisquam corporis voluptatibus saepe consequuntur",
+        "amount": 6111.86,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -265724.82
+    },
+    {
+        "id": "txn_user_2_133",
+        "userId": "user_2",
+        "date": "2025-09-05",
+        "description": "Quasi accusantium unde eos iusto",
+        "amount": 6347.55,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -272072.38
+    },
+    {
+        "id": "txn_user_2_134",
+        "userId": "user_2",
+        "date": "2025-07-20",
+        "description": "Ab facilis pariatur blanditiis cum atque eum",
+        "amount": 1808.03,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -273880.41
+    },
+    {
+        "id": "txn_user_2_135",
+        "userId": "user_2",
+        "date": "2025-08-12",
+        "description": "Qui nam vero neque nisi",
+        "amount": 2304.21,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -276184.62
+    },
+    {
+        "id": "txn_user_2_136",
+        "userId": "user_2",
+        "date": "2025-07-15",
+        "description": "Monthly salary deposit from Bhardwaj, Talwar and Tiwari",
+        "amount": 54354.86,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -221829.76
+    },
+    {
+        "id": "txn_user_2_137",
+        "userId": "user_2",
+        "date": "2025-09-27",
+        "description": "Online purchase from Amazon.",
+        "amount": 3025.43,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -224855.19
+    },
+    {
+        "id": "txn_user_2_138",
+        "userId": "user_2",
+        "date": "2025-08-01",
+        "description": "Animi veniam sint voluptatibus fuga veritatis error",
+        "amount": 4900.32,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -229755.51
+    },
+    {
+        "id": "txn_user_2_139",
+        "userId": "user_2",
+        "date": "2025-07-08",
+        "description": "Ea culpa cupiditate aliquam consequuntur labore",
+        "amount": 367.51,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -230123.02
+    },
+    {
+        "id": "txn_user_2_140",
+        "userId": "user_2",
+        "date": "2025-09-20",
+        "description": "Online purchase from Myntra.",
+        "amount": 2265.34,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -232388.37
+    },
+    {
+        "id": "txn_user_2_141",
+        "userId": "user_2",
+        "date": "2025-08-28",
+        "description": "Water bill payment.",
+        "amount": 2629.96,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -235018.32
+    },
+    {
+        "id": "txn_user_2_142",
+        "userId": "user_2",
+        "date": "2025-07-26",
+        "description": "Water bill payment.",
+        "amount": 3287.41,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -238305.73
+    },
+    {
+        "id": "txn_user_2_143",
+        "userId": "user_2",
+        "date": "2025-09-18",
+        "description": "Online purchase from Flipkart.",
+        "amount": 9614.84,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -247920.57
+    },
+    {
+        "id": "txn_user_2_144",
+        "userId": "user_2",
+        "date": "2025-09-24",
+        "description": "Rent payment for September to landlord.",
+        "amount": 17509.88,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -265430.45
+    },
+    {
+        "id": "txn_user_2_145",
+        "userId": "user_2",
+        "date": "2025-08-27",
+        "description": "Online purchase from Amazon.",
+        "amount": 8732.16,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -274162.61
+    },
+    {
+        "id": "txn_user_2_146",
+        "userId": "user_2",
+        "date": "2025-10-02",
+        "description": "Deleniti perferendis odio a similique veritatis harum",
+        "amount": 6265.91,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -280428.51
+    },
+    {
+        "id": "txn_user_2_147",
+        "userId": "user_2",
+        "date": "2025-09-05",
+        "description": "Rent payment for September to landlord.",
+        "amount": 34629.5,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -315058.01
+    },
+    {
+        "id": "txn_user_2_148",
+        "userId": "user_2",
+        "date": "2025-09-01",
+        "description": "Online purchase from Flipkart.",
+        "amount": 3312.18,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -318370.19
+    },
+    {
+        "id": "txn_user_2_149",
+        "userId": "user_2",
+        "date": "2025-07-28",
+        "description": "Omnis nobis atque dolor dolores illo neque",
+        "amount": 694.57,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -319064.76
+    },
+    {
+        "id": "txn_user_2_150",
+        "userId": "user_2",
+        "date": "2025-09-21",
+        "description": "Internet bill payment.",
+        "amount": 4507.66,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -323572.42
+    },
+    {
+        "id": "txn_user_3_1",
+        "userId": "user_3",
+        "date": "2025-07-11",
+        "description": "Monthly salary deposit from Swamy-Wadhwa",
+        "amount": 61061.74,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 129442.67
+    },
+    {
+        "id": "txn_user_3_2",
+        "userId": "user_3",
+        "date": "2025-10-03",
+        "description": "Online purchase from Amazon.",
+        "amount": 3938.86,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 125503.81
+    },
+    {
+        "id": "txn_user_3_3",
+        "userId": "user_3",
+        "date": "2025-07-15",
+        "description": "Quos tempora suscipit quae nihil possimus autem suscipit",
+        "amount": 1766.13,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 123737.68
+    },
+    {
+        "id": "txn_user_3_4",
+        "userId": "user_3",
+        "date": "2025-07-21",
+        "description": "Water bill payment.",
+        "amount": 1549.31,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 122188.38
+    },
+    {
+        "id": "txn_user_3_5",
+        "userId": "user_3",
+        "date": "2025-09-29",
+        "description": "Earum consequatur quaerat iste consectetur natus consequuntur",
+        "amount": 1101.33,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 121087.05
+    },
+    {
+        "id": "txn_user_3_6",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "UPI payment to Zomato.",
+        "amount": 970.73,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 120116.31
+    },
+    {
+        "id": "txn_user_3_7",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Libero ad magni maiores officiis mollitia",
+        "amount": 4800.02,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 115316.29
+    },
+    {
+        "id": "txn_user_3_8",
+        "userId": "user_3",
+        "date": "2025-07-18",
+        "description": "Electricity bill payment.",
+        "amount": 4301.58,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 111014.71
+    },
+    {
+        "id": "txn_user_3_9",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Online purchase from Flipkart.",
+        "amount": 8481.43,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 102533.28
+    },
+    {
+        "id": "txn_user_3_10",
+        "userId": "user_3",
+        "date": "2025-07-19",
+        "description": "Odio labore vitae quas possimus",
+        "amount": 6564.17,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 95969.11
+    },
+    {
+        "id": "txn_user_3_11",
+        "userId": "user_3",
+        "date": "2025-08-04",
+        "description": "Online purchase from Myntra.",
+        "amount": 5933.17,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 90035.94
+    },
+    {
+        "id": "txn_user_3_12",
+        "userId": "user_3",
+        "date": "2025-07-27",
+        "description": "Fugit excepturi amet",
+        "amount": 938.44,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 89097.5
+    },
+    {
+        "id": "txn_user_3_13",
+        "userId": "user_3",
+        "date": "2025-08-05",
+        "description": "Water bill payment.",
+        "amount": 2061.45,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 87036.05
+    },
+    {
+        "id": "txn_user_3_14",
+        "userId": "user_3",
+        "date": "2025-08-31",
+        "description": "Water bill payment.",
+        "amount": 2517.94,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 84518.12
+    },
+    {
+        "id": "txn_user_3_15",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Rent payment for August to landlord.",
+        "amount": 19842.8,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 64675.31
+    },
+    {
+        "id": "txn_user_3_16",
+        "userId": "user_3",
+        "date": "2025-10-01",
+        "description": "Monthly salary deposit from Jain-Jayaraman",
+        "amount": 62143.53,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 126818.84
+    },
+    {
+        "id": "txn_user_3_17",
+        "userId": "user_3",
+        "date": "2025-09-17",
+        "description": "Asperiores enim cumque fugit amet",
+        "amount": 6181.16,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 120637.69
+    },
+    {
+        "id": "txn_user_3_18",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "UPI payment to Zomato.",
+        "amount": 1191.0,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 119446.69
+    },
+    {
+        "id": "txn_user_3_19",
+        "userId": "user_3",
+        "date": "2025-08-17",
+        "description": "UPI payment to Zomato.",
+        "amount": 841.5,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 118605.19
+    },
+    {
+        "id": "txn_user_3_20",
+        "userId": "user_3",
+        "date": "2025-07-07",
+        "description": "UPI payment to Zomato.",
+        "amount": 589.08,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 118016.11
+    },
+    {
+        "id": "txn_user_3_21",
+        "userId": "user_3",
+        "date": "2025-07-23",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 914.58,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 117101.53
+    },
+    {
+        "id": "txn_user_3_22",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Rent payment for August to landlord.",
+        "amount": 27695.32,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 89406.21
+    },
+    {
+        "id": "txn_user_3_23",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Ad veritatis nam incidunt ipsa neque error",
+        "amount": 1703.51,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 87702.7
+    },
+    {
+        "id": "txn_user_3_24",
+        "userId": "user_3",
+        "date": "2025-08-19",
+        "description": "UPI payment to Local Cafe.",
+        "amount": 1473.73,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 86228.97
+    },
+    {
+        "id": "txn_user_3_25",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Online purchase from Myntra.",
+        "amount": 6725.56,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 79503.41
+    },
+    {
+        "id": "txn_user_3_26",
+        "userId": "user_3",
+        "date": "2025-09-12",
+        "description": "Nesciunt exercitationem fuga quasi",
+        "amount": 6448.3,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 73055.12
+    },
+    {
+        "id": "txn_user_3_27",
+        "userId": "user_3",
+        "date": "2025-09-17",
+        "description": "Maiores rerum quia iusto nisi ullam atque",
+        "amount": 1163.23,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 71891.88
+    },
+    {
+        "id": "txn_user_3_28",
+        "userId": "user_3",
+        "date": "2025-08-13",
+        "description": "Electricity bill payment.",
+        "amount": 3342.55,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 68549.33
+    },
+    {
+        "id": "txn_user_3_29",
+        "userId": "user_3",
+        "date": "2025-09-22",
+        "description": "Online purchase from Amazon.",
+        "amount": 9417.41,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 59131.92
+    },
+    {
+        "id": "txn_user_3_30",
+        "userId": "user_3",
+        "date": "2025-07-09",
+        "description": "UPI payment to Swiggy.",
+        "amount": 920.16,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 58211.76
+    },
+    {
+        "id": "txn_user_3_31",
+        "userId": "user_3",
+        "date": "2025-09-07",
+        "description": "Monthly salary deposit from Subramaniam-Apte",
+        "amount": 81169.52,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 139381.28
+    },
+    {
+        "id": "txn_user_3_32",
+        "userId": "user_3",
+        "date": "2025-08-05",
+        "description": "Online purchase from Myntra.",
+        "amount": 8754.35,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 130626.93
+    },
+    {
+        "id": "txn_user_3_33",
+        "userId": "user_3",
+        "date": "2025-08-19",
+        "description": "Libero aliquid perspiciatis temporibus placeat dolor voluptatibus voluptate",
+        "amount": 4137.81,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 126489.13
+    },
+    {
+        "id": "txn_user_3_34",
+        "userId": "user_3",
+        "date": "2025-07-30",
+        "description": "Cumque veritatis maxime fugiat aut asperiores",
+        "amount": 5106.11,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 121383.01
+    },
+    {
+        "id": "txn_user_3_35",
+        "userId": "user_3",
+        "date": "2025-08-28",
+        "description": "Iure natus et inventore quo",
+        "amount": 5438.91,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 115944.1
+    },
+    {
+        "id": "txn_user_3_36",
+        "userId": "user_3",
+        "date": "2025-08-18",
+        "description": "Rent payment for August to landlord.",
+        "amount": 22327.79,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 93616.31
+    },
+    {
+        "id": "txn_user_3_37",
+        "userId": "user_3",
+        "date": "2025-08-21",
+        "description": "Internet bill payment.",
+        "amount": 3451.78,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 90164.53
+    },
+    {
+        "id": "txn_user_3_38",
+        "userId": "user_3",
+        "date": "2025-07-10",
+        "description": "Velit aperiam harum eveniet suscipit fugiat delectus",
+        "amount": 4009.57,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 86154.95
+    },
+    {
+        "id": "txn_user_3_39",
+        "userId": "user_3",
+        "date": "2025-10-03",
+        "description": "Sapiente earum ea praesentium impedit laborum odio iste",
+        "amount": 897.45,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 85257.5
+    },
+    {
+        "id": "txn_user_3_40",
+        "userId": "user_3",
+        "date": "2025-09-14",
+        "description": "Quibusdam placeat vero sunt deleniti dolores pariatur at",
+        "amount": 864.98,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 84392.52
+    },
+    {
+        "id": "txn_user_3_41",
+        "userId": "user_3",
+        "date": "2025-08-12",
+        "description": "Electricity bill payment.",
+        "amount": 4313.21,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 80079.31
+    },
+    {
+        "id": "txn_user_3_42",
+        "userId": "user_3",
+        "date": "2025-08-26",
+        "description": "Online purchase from Myntra.",
+        "amount": 3781.73,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 76297.58
+    },
+    {
+        "id": "txn_user_3_43",
+        "userId": "user_3",
+        "date": "2025-07-18",
+        "description": "Rent payment for July to landlord.",
+        "amount": 15793.66,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 60503.92
+    },
+    {
+        "id": "txn_user_3_44",
+        "userId": "user_3",
+        "date": "2025-09-05",
+        "description": "Rent payment for September to landlord.",
+        "amount": 32089.66,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 28414.25
+    },
+    {
+        "id": "txn_user_3_45",
+        "userId": "user_3",
+        "date": "2025-09-10",
+        "description": "Maxime dolorum fugiat vel",
+        "amount": 5945.87,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 22468.39
+    },
+    {
+        "id": "txn_user_3_46",
+        "userId": "user_3",
+        "date": "2025-10-03",
+        "description": "Monthly salary deposit from Murthy Group",
+        "amount": 57884.11,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 80352.5
+    },
+    {
+        "id": "txn_user_3_47",
+        "userId": "user_3",
+        "date": "2025-08-10",
+        "description": "Online purchase from Amazon.",
+        "amount": 1953.47,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 78399.02
+    },
+    {
+        "id": "txn_user_3_48",
+        "userId": "user_3",
+        "date": "2025-08-18",
+        "description": "Electricity bill payment.",
+        "amount": 2562.88,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 75836.14
+    },
+    {
+        "id": "txn_user_3_49",
+        "userId": "user_3",
+        "date": "2025-08-24",
+        "description": "Rent payment for August to landlord.",
+        "amount": 20397.66,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 55438.48
+    },
+    {
+        "id": "txn_user_3_50",
+        "userId": "user_3",
+        "date": "2025-08-04",
+        "description": "Laboriosam assumenda earum voluptate officiis",
+        "amount": 6051.36,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 49387.12
+    },
+    {
+        "id": "txn_user_3_51",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Reiciendis quas voluptatum sint architecto nostrum nulla laboriosam",
+        "amount": 4319.68,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 45067.44
+    },
+    {
+        "id": "txn_user_3_52",
+        "userId": "user_3",
+        "date": "2025-09-13",
+        "description": "Online purchase from Myntra.",
+        "amount": 6218.85,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 38848.59
+    },
+    {
+        "id": "txn_user_3_53",
+        "userId": "user_3",
+        "date": "2025-08-20",
+        "description": "Water bill payment.",
+        "amount": 3683.12,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 35165.47
+    },
+    {
+        "id": "txn_user_3_54",
+        "userId": "user_3",
+        "date": "2025-07-13",
+        "description": "UPI payment to Zomato.",
+        "amount": 1459.39,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 33706.09
+    },
+    {
+        "id": "txn_user_3_55",
+        "userId": "user_3",
+        "date": "2025-07-29",
+        "description": "Voluptatum cumque voluptatem inventore minima",
+        "amount": 3898.74,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 29807.35
+    },
+    {
+        "id": "txn_user_3_56",
+        "userId": "user_3",
+        "date": "2025-08-29",
+        "description": "Online purchase from Myntra.",
+        "amount": 9373.65,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 20433.7
+    },
+    {
+        "id": "txn_user_3_57",
+        "userId": "user_3",
+        "date": "2025-07-12",
+        "description": "Nemo omnis quos",
+        "amount": 5228.65,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 15205.04
+    },
+    {
+        "id": "txn_user_3_58",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Online purchase from Amazon.",
+        "amount": 3942.06,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 11262.99
+    },
+    {
+        "id": "txn_user_3_59",
+        "userId": "user_3",
+        "date": "2025-10-05",
+        "description": "Perferendis cum quibusdam architecto",
+        "amount": 5399.08,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 5863.9
+    },
+    {
+        "id": "txn_user_3_60",
+        "userId": "user_3",
+        "date": "2025-08-30",
+        "description": "Tempora rem dicta",
+        "amount": 3533.14,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 2330.76
+    },
+    {
+        "id": "txn_user_3_61",
+        "userId": "user_3",
+        "date": "2025-08-28",
+        "description": "Monthly salary deposit from Bhatia LLC",
+        "amount": 94261.37,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 96592.14
+    },
+    {
+        "id": "txn_user_3_62",
+        "userId": "user_3",
+        "date": "2025-08-31",
+        "description": "Consequuntur incidunt necessitatibus numquam",
+        "amount": 5222.78,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 91369.36
+    },
+    {
+        "id": "txn_user_3_63",
+        "userId": "user_3",
+        "date": "2025-08-17",
+        "description": "Magnam animi optio ipsam dicta inventore laudantium",
+        "amount": 986.33,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 90383.03
+    },
+    {
+        "id": "txn_user_3_64",
+        "userId": "user_3",
+        "date": "2025-07-13",
+        "description": "Rent payment for July to landlord.",
+        "amount": 18789.35,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 71593.68
+    },
+    {
+        "id": "txn_user_3_65",
+        "userId": "user_3",
+        "date": "2025-07-17",
+        "description": "Internet bill payment.",
+        "amount": 1525.72,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 70067.96
+    },
+    {
+        "id": "txn_user_3_66",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Electricity bill payment.",
+        "amount": 2392.24,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 67675.72
+    },
+    {
+        "id": "txn_user_3_67",
+        "userId": "user_3",
+        "date": "2025-08-11",
+        "description": "Placeat unde totam ipsam atque rem",
+        "amount": 845.03,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 66830.69
+    },
+    {
+        "id": "txn_user_3_68",
+        "userId": "user_3",
+        "date": "2025-07-17",
+        "description": "UPI payment to Zomato.",
+        "amount": 285.45,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 66545.24
+    },
+    {
+        "id": "txn_user_3_69",
+        "userId": "user_3",
+        "date": "2025-09-02",
+        "description": "Online purchase from Flipkart.",
+        "amount": 4730.68,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 61814.56
+    },
+    {
+        "id": "txn_user_3_70",
+        "userId": "user_3",
+        "date": "2025-08-03",
+        "description": "Ipsum commodi eligendi esse labore veritatis",
+        "amount": 4017.56,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 57797.0
+    },
+    {
+        "id": "txn_user_3_71",
+        "userId": "user_3",
+        "date": "2025-07-28",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1301.74,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 56495.26
+    },
+    {
+        "id": "txn_user_3_72",
+        "userId": "user_3",
+        "date": "2025-07-18",
+        "description": "Est est totam repellendus error",
+        "amount": 6987.07,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": 49508.19
+    },
+    {
+        "id": "txn_user_3_73",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Consequatur recusandae error est nemo deserunt eaque",
+        "amount": 6405.42,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 43102.77
+    },
+    {
+        "id": "txn_user_3_74",
+        "userId": "user_3",
+        "date": "2025-10-05",
+        "description": "Online purchase from Myntra.",
+        "amount": 5723.2,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 37379.58
+    },
+    {
+        "id": "txn_user_3_75",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Itaque quidem magni neque",
+        "amount": 6663.08,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 30716.5
+    },
+    {
+        "id": "txn_user_3_76",
+        "userId": "user_3",
+        "date": "2025-10-01",
+        "description": "Monthly salary deposit from Kunda, Bandi and Salvi",
+        "amount": 57463.67,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 88180.17
+    },
+    {
+        "id": "txn_user_3_77",
+        "userId": "user_3",
+        "date": "2025-07-25",
+        "description": "Internet bill payment.",
+        "amount": 1768.02,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 86412.15
+    },
+    {
+        "id": "txn_user_3_78",
+        "userId": "user_3",
+        "date": "2025-08-14",
+        "description": "Online purchase from Myntra.",
+        "amount": 510.9,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 85901.25
+    },
+    {
+        "id": "txn_user_3_79",
+        "userId": "user_3",
+        "date": "2025-10-04",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1435.49,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 84465.75
+    },
+    {
+        "id": "txn_user_3_80",
+        "userId": "user_3",
+        "date": "2025-09-11",
+        "description": "Rent payment for September to landlord.",
+        "amount": 25313.04,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 59152.71
+    },
+    {
+        "id": "txn_user_3_81",
+        "userId": "user_3",
+        "date": "2025-08-16",
+        "description": "Water bill payment.",
+        "amount": 3178.44,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 55974.28
+    },
+    {
+        "id": "txn_user_3_82",
+        "userId": "user_3",
+        "date": "2025-10-04",
+        "description": "Repellendus totam architecto libero hic mollitia",
+        "amount": 5960.15,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 50014.12
+    },
+    {
+        "id": "txn_user_3_83",
+        "userId": "user_3",
+        "date": "2025-07-10",
+        "description": "Rerum dolorum inventore",
+        "amount": 6873.27,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 43140.86
+    },
+    {
+        "id": "txn_user_3_84",
+        "userId": "user_3",
+        "date": "2025-08-09",
+        "description": "Online purchase from Flipkart.",
+        "amount": 8244.0,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 34896.85
+    },
+    {
+        "id": "txn_user_3_85",
+        "userId": "user_3",
+        "date": "2025-09-05",
+        "description": "Rent payment for September to landlord.",
+        "amount": 22448.45,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 12448.4
+    },
+    {
+        "id": "txn_user_3_86",
+        "userId": "user_3",
+        "date": "2025-10-05",
+        "description": "UPI payment to Swiggy.",
+        "amount": 793.37,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 11655.03
+    },
+    {
+        "id": "txn_user_3_87",
+        "userId": "user_3",
+        "date": "2025-08-25",
+        "description": "Nihil laborum adipisci assumenda sint alias",
+        "amount": 6017.28,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": 5637.76
+    },
+    {
+        "id": "txn_user_3_88",
+        "userId": "user_3",
+        "date": "2025-08-09",
+        "description": "Rerum dicta optio dolores",
+        "amount": 6943.29,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -1305.53
+    },
+    {
+        "id": "txn_user_3_89",
+        "userId": "user_3",
+        "date": "2025-09-16",
+        "description": "UPI payment to Zomato.",
+        "amount": 527.53,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -1833.06
+    },
+    {
+        "id": "txn_user_3_90",
+        "userId": "user_3",
+        "date": "2025-07-21",
+        "description": "Reiciendis aliquid eius quidem iure libero",
+        "amount": 5100.07,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -6933.13
+    },
+    {
+        "id": "txn_user_3_91",
+        "userId": "user_3",
+        "date": "2025-07-31",
+        "description": "Monthly salary deposit from Dara-Bhatt",
+        "amount": 44709.26,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 37776.13
+    },
+    {
+        "id": "txn_user_3_92",
+        "userId": "user_3",
+        "date": "2025-07-19",
+        "description": "Internet bill payment.",
+        "amount": 4218.82,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 33557.31
+    },
+    {
+        "id": "txn_user_3_93",
+        "userId": "user_3",
+        "date": "2025-08-31",
+        "description": "Online purchase from Amazon.",
+        "amount": 7553.77,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 26003.54
+    },
+    {
+        "id": "txn_user_3_94",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Electricity bill payment.",
+        "amount": 1897.43,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 24106.11
+    },
+    {
+        "id": "txn_user_3_95",
+        "userId": "user_3",
+        "date": "2025-09-22",
+        "description": "Rent payment for September to landlord.",
+        "amount": 26259.6,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -2153.49
+    },
+    {
+        "id": "txn_user_3_96",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Harum deleniti deleniti beatae mollitia nostrum beatae modi",
+        "amount": 919.21,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -3072.7
+    },
+    {
+        "id": "txn_user_3_97",
+        "userId": "user_3",
+        "date": "2025-07-10",
+        "description": "Online purchase from Myntra.",
+        "amount": 4322.61,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -7395.31
+    },
+    {
+        "id": "txn_user_3_98",
+        "userId": "user_3",
+        "date": "2025-09-15",
+        "description": "Online purchase from Flipkart.",
+        "amount": 3666.32,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -11061.62
+    },
+    {
+        "id": "txn_user_3_99",
+        "userId": "user_3",
+        "date": "2025-08-05",
+        "description": "Rent payment for August to landlord.",
+        "amount": 31565.23,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -42626.86
+    },
+    {
+        "id": "txn_user_3_100",
+        "userId": "user_3",
+        "date": "2025-08-23",
+        "description": "Sit vero repudiandae dolorum ipsum occaecati",
+        "amount": 1249.37,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -43876.23
+    },
+    {
+        "id": "txn_user_3_101",
+        "userId": "user_3",
+        "date": "2025-08-31",
+        "description": "Online purchase from Flipkart.",
+        "amount": 8527.09,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -52403.32
+    },
+    {
+        "id": "txn_user_3_102",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Pariatur velit odit eligendi assumenda illum dolor",
+        "amount": 4768.45,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -57171.77
+    },
+    {
+        "id": "txn_user_3_103",
+        "userId": "user_3",
+        "date": "2025-09-03",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1389.51,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -58561.28
+    },
+    {
+        "id": "txn_user_3_104",
+        "userId": "user_3",
+        "date": "2025-07-11",
+        "description": "Itaque praesentium eveniet atque doloribus",
+        "amount": 5120.21,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -63681.48
+    },
+    {
+        "id": "txn_user_3_105",
+        "userId": "user_3",
+        "date": "2025-08-18",
+        "description": "Consequatur doloremque eius similique necessitatibus laudantium",
+        "amount": 620.38,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -64301.87
+    },
+    {
+        "id": "txn_user_3_106",
+        "userId": "user_3",
+        "date": "2025-08-06",
+        "description": "Monthly salary deposit from Solanki LLC",
+        "amount": 90483.63,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 26181.76
+    },
+    {
+        "id": "txn_user_3_107",
+        "userId": "user_3",
+        "date": "2025-09-03",
+        "description": "Cumque atque excepturi architecto aliquid magni",
+        "amount": 4839.03,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 21342.73
+    },
+    {
+        "id": "txn_user_3_108",
+        "userId": "user_3",
+        "date": "2025-08-28",
+        "description": "Online purchase from Myntra.",
+        "amount": 7365.95,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": 13976.78
+    },
+    {
+        "id": "txn_user_3_109",
+        "userId": "user_3",
+        "date": "2025-09-22",
+        "description": "Deserunt aliquid porro explicabo fugiat",
+        "amount": 5048.32,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 8928.46
+    },
+    {
+        "id": "txn_user_3_110",
+        "userId": "user_3",
+        "date": "2025-07-20",
+        "description": "Internet bill payment.",
+        "amount": 4866.89,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 4061.57
+    },
+    {
+        "id": "txn_user_3_111",
+        "userId": "user_3",
+        "date": "2025-07-31",
+        "description": "Electricity bill payment.",
+        "amount": 3058.84,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": 1002.73
+    },
+    {
+        "id": "txn_user_3_112",
+        "userId": "user_3",
+        "date": "2025-09-28",
+        "description": "Online purchase from Amazon.",
+        "amount": 1797.91,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -795.18
+    },
+    {
+        "id": "txn_user_3_113",
+        "userId": "user_3",
+        "date": "2025-07-27",
+        "description": "Voluptates dignissimos illo similique aliquid maiores delectus suscipit",
+        "amount": 2901.84,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -3697.02
+    },
+    {
+        "id": "txn_user_3_114",
+        "userId": "user_3",
+        "date": "2025-07-10",
+        "description": "Rent payment for July to landlord.",
+        "amount": 21544.45,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -25241.47
+    },
+    {
+        "id": "txn_user_3_115",
+        "userId": "user_3",
+        "date": "2025-07-30",
+        "description": "Online purchase from Myntra.",
+        "amount": 8114.8,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -33356.26
+    },
+    {
+        "id": "txn_user_3_116",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Ipsam ab rerum sapiente natus adipisci molestias",
+        "amount": 4809.93,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -38166.2
+    },
+    {
+        "id": "txn_user_3_117",
+        "userId": "user_3",
+        "date": "2025-07-18",
+        "description": "Repellendus eligendi impedit placeat",
+        "amount": 6667.66,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -44833.85
+    },
+    {
+        "id": "txn_user_3_118",
+        "userId": "user_3",
+        "date": "2025-07-11",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1082.11,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -45915.96
+    },
+    {
+        "id": "txn_user_3_119",
+        "userId": "user_3",
+        "date": "2025-08-18",
+        "description": "Deleniti laudantium quas modi",
+        "amount": 5987.28,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -51903.25
+    },
+    {
+        "id": "txn_user_3_120",
+        "userId": "user_3",
+        "date": "2025-08-04",
+        "description": "Electricity bill payment.",
+        "amount": 1160.96,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -53064.21
+    },
+    {
+        "id": "txn_user_3_121",
+        "userId": "user_3",
+        "date": "2025-10-04",
+        "description": "Monthly salary deposit from Dhingra-Gola",
+        "amount": 77637.64,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": 24573.43
+    },
+    {
+        "id": "txn_user_3_122",
+        "userId": "user_3",
+        "date": "2025-09-15",
+        "description": "Ut blanditiis consequuntur odio molestias corrupti deleniti",
+        "amount": 724.84,
+        "type": "Debit",
+        "category": "Others",
+        "balance": 23848.59
+    },
+    {
+        "id": "txn_user_3_123",
+        "userId": "user_3",
+        "date": "2025-07-17",
+        "description": "UPI payment to Swiggy.",
+        "amount": 257.26,
+        "type": "Debit",
+        "category": "Food",
+        "balance": 23591.33
+    },
+    {
+        "id": "txn_user_3_124",
+        "userId": "user_3",
+        "date": "2025-07-28",
+        "description": "Rent payment for July to landlord.",
+        "amount": 20782.68,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": 2808.65
+    },
+    {
+        "id": "txn_user_3_125",
+        "userId": "user_3",
+        "date": "2025-09-29",
+        "description": "Aliquid iste omnis at",
+        "amount": 6429.76,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -3621.1
+    },
+    {
+        "id": "txn_user_3_126",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Internet bill payment.",
+        "amount": 3948.91,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -7570.02
+    },
+    {
+        "id": "txn_user_3_127",
+        "userId": "user_3",
+        "date": "2025-08-26",
+        "description": "Numquam adipisci totam et",
+        "amount": 6205.25,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -13775.27
+    },
+    {
+        "id": "txn_user_3_128",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Rent payment for September to landlord.",
+        "amount": 34444.44,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -48219.71
+    },
+    {
+        "id": "txn_user_3_129",
+        "userId": "user_3",
+        "date": "2025-07-21",
+        "description": "Online purchase from Myntra.",
+        "amount": 614.13,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -48833.84
+    },
+    {
+        "id": "txn_user_3_130",
+        "userId": "user_3",
+        "date": "2025-09-24",
+        "description": "Animi modi sequi qui",
+        "amount": 1747.89,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -50581.72
+    },
+    {
+        "id": "txn_user_3_131",
+        "userId": "user_3",
+        "date": "2025-09-30",
+        "description": "Online purchase from Myntra.",
+        "amount": 9467.92,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -60049.64
+    },
+    {
+        "id": "txn_user_3_132",
+        "userId": "user_3",
+        "date": "2025-08-19",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1071.67,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -61121.31
+    },
+    {
+        "id": "txn_user_3_133",
+        "userId": "user_3",
+        "date": "2025-09-06",
+        "description": "Quae neque molestias error necessitatibus repellat",
+        "amount": 4201.51,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -65322.82
+    },
+    {
+        "id": "txn_user_3_134",
+        "userId": "user_3",
+        "date": "2025-09-19",
+        "description": "Reiciendis eligendi quisquam occaecati",
+        "amount": 5189.72,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -70512.53
+    },
+    {
+        "id": "txn_user_3_135",
+        "userId": "user_3",
+        "date": "2025-09-08",
+        "description": "Nemo ab fugit incidunt modi sequi nostrum inventore",
+        "amount": 7444.68,
+        "type": "Debit",
+        "category": "Travel",
+        "balance": -77957.22
+    },
+    {
+        "id": "txn_user_3_136",
+        "userId": "user_3",
+        "date": "2025-07-18",
+        "description": "Monthly salary deposit from Nigam Inc",
+        "amount": 46367.38,
+        "type": "Credit",
+        "category": "Salary",
+        "balance": -31589.84
+    },
+    {
+        "id": "txn_user_3_137",
+        "userId": "user_3",
+        "date": "2025-09-01",
+        "description": "UPI payment to Swiggy.",
+        "amount": 1023.25,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -32613.09
+    },
+    {
+        "id": "txn_user_3_138",
+        "userId": "user_3",
+        "date": "2025-09-09",
+        "description": "Rent payment for September to landlord.",
+        "amount": 34441.81,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -67054.91
+    },
+    {
+        "id": "txn_user_3_139",
+        "userId": "user_3",
+        "date": "2025-10-02",
+        "description": "Rent payment for October to landlord.",
+        "amount": 15306.98,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -82361.89
+    },
+    {
+        "id": "txn_user_3_140",
+        "userId": "user_3",
+        "date": "2025-07-26",
+        "description": "Rent payment for July to landlord.",
+        "amount": 21455.23,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -103817.12
+    },
+    {
+        "id": "txn_user_3_141",
+        "userId": "user_3",
+        "date": "2025-08-09",
+        "description": "Hic explicabo saepe fuga",
+        "amount": 5946.52,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -109763.64
+    },
+    {
+        "id": "txn_user_3_142",
+        "userId": "user_3",
+        "date": "2025-08-10",
+        "description": "Rent payment for August to landlord.",
+        "amount": 31101.15,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -140864.78
+    },
+    {
+        "id": "txn_user_3_143",
+        "userId": "user_3",
+        "date": "2025-07-25",
+        "description": "UPI payment to Zomato.",
+        "amount": 1315.29,
+        "type": "Debit",
+        "category": "Food",
+        "balance": -142180.07
+    },
+    {
+        "id": "txn_user_3_144",
+        "userId": "user_3",
+        "date": "2025-07-16",
+        "description": "Explicabo placeat veritatis iste culpa quia",
+        "amount": 648.81,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -142828.88
+    },
+    {
+        "id": "txn_user_3_145",
+        "userId": "user_3",
+        "date": "2025-09-26",
+        "description": "Online purchase from Myntra.",
+        "amount": 1363.42,
+        "type": "Debit",
+        "category": "Shopping",
+        "balance": -144192.31
+    },
+    {
+        "id": "txn_user_3_146",
+        "userId": "user_3",
+        "date": "2025-09-05",
+        "description": "Rent payment for September to landlord.",
+        "amount": 21336.53,
+        "type": "Debit",
+        "category": "Rent",
+        "balance": -165528.84
+    },
+    {
+        "id": "txn_user_3_147",
+        "userId": "user_3",
+        "date": "2025-07-15",
+        "description": "Porro modi consequatur nihil debitis enim corporis dignissimos",
+        "amount": 992.3,
+        "type": "Debit",
+        "category": "Others",
+        "balance": -166521.14
+    },
+    {
+        "id": "txn_user_3_148",
+        "userId": "user_3",
+        "date": "2025-07-14",
+        "description": "Laborum tempore cupiditate reiciendis",
+        "amount": 5405.16,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -171926.3
+    },
+    {
+        "id": "txn_user_3_149",
+        "userId": "user_3",
+        "date": "2025-09-15",
+        "description": "At ad earum nulla rem",
+        "amount": 1997.54,
+        "type": "Debit",
+        "category": "Entertainment",
+        "balance": -173923.84
+    },
+    {
+        "id": "txn_user_3_150",
+        "userId": "user_3",
+        "date": "2025-09-30",
+        "description": "Electricity bill payment.",
+        "amount": 4152.14,
+        "type": "Debit",
+        "category": "Utilities",
+        "balance": -178075.98
+    }
+]

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Financial Data Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        .input-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+            font-size: 14px;
+        }
+
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+
+        .input-group input:focus, .input-group select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            flex: 1;
+            padding: 14px 20px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .btn-secondary:hover:not(:disabled) {
+            background: #e0e0e0;
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 30px;
+            display: none;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+
+        .loading-text {
+            color: #667eea;
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .results {
+            display: none;
+        }
+
+        .results.active {
+            display: block;
+        }
+
+        .summary-box {
+            background: linear-gradient(135deg, #f8f9ff 0%, #e8ebff 100%);
+            border-left: 5px solid #667eea;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            white-space: pre-line;
+            line-height: 1.9;
+            font-size: 15px;
+            color: #333;
+        }
+
+        .transactions-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .transactions-header h3 {
+            color: #333;
+            font-size: 20px;
+        }
+
+        .badge {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .transaction-item {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 12px;
+            border-left: 4px solid #667eea;
+            transition: all 0.3s;
+        }
+
+        .transaction-item:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .transaction-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+
+        .transaction-title {
+            flex: 1;
+        }
+
+        .transaction-title strong {
+            font-size: 16px;
+            color: #333;
+        }
+
+        .transaction-meta {
+            font-size: 13px;
+            color: #999;
+            margin-top: 5px;
+        }
+
+        .transaction-amount {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #d32f2f;
+            white-space: nowrap;
+            margin-left: 15px;
+        }
+
+        .transaction-amount.credit {
+            color: #2e7d32;
+        }
+
+        .transaction-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .detail-item {
+            display: flex;
+            align-items: center;
+        }
+
+        .detail-item strong {
+            margin-right: 6px;
+            font-size: 16px;
+        }
+
+        .error-box {
+            background: white;
+            border-left: 5px solid #d32f2f;
+            padding: 20px;
+            border-radius: 10px;
+            color: #c62828;
+            display: none;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 20px rgba(211, 47, 47, 0.2);
+        }
+
+        .error-box.active {
+            display: block;
+        }
+
+        .examples {
+            background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .examples h4 {
+            color: #e65100;
+            margin-bottom: 12px;
+            font-size: 15px;
+        }
+
+        .examples ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .examples li {
+            padding: 8px 0;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 14px;
+        }
+
+        .examples li:hover {
+            color: #667eea;
+            transform: translateX(5px);
+        }
+
+        .status-indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #4caf50;
+            margin-right: 8px;
+            animation: pulse 2s infinite;
+        }
+
+        .status-indicator.offline {
+            background: #f44336;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+
+        .no-results-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>💰 AI Financial Assistant</h1>
+            <p>Ask questions about your transactions in natural language</p>
+        </div>
+
+        <div class="error-box" id="errorBox"></div>
+
+        <div class="card">
+            <div class="input-group">
+                <label for="userId">
+                    <span class="status-indicator" id="statusIndicator"></span>
+                    Select User
+                </label>
+                <select id="userId">
+                    <option value="">All Users</option>
+                    <option value="user_1">User 1</option>
+                    <option value="user_2">User 2</option>
+                    <option value="user_3">User 3</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label for="query">Your Question</label>
+                <input 
+                    type="text" 
+                    id="query" 
+                    placeholder="e.g., What are my top 3 expenses last month?"
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="button-group">
+                <button class="btn-primary" id="searchBtn" onclick="searchTransactions()">
+                    🔍 Search
+                </button>
+                <button class="btn-secondary" onclick="clearResults()">
+                    ✖️ Clear
+                </button>
+            </div>
+
+            <div class="examples">
+                <h4>💡 Try these examples:</h4>
+                <ul>
+                    <li onclick="setQuery('What are my top 3 expenses last month?')">
+                        • What are my top 3 expenses last month?
+                    </li>
+                    <li onclick="setQuery('Show me all rent payments')">
+                        • Show me all rent payments
+                    </li>
+                    <li onclick="setQuery('How much did I spend on food?')">
+                        • How much did I spend on food?
+                    </li>
+                    <li onclick="setQuery('What were my utility bills?')">
+                        • What were my utility bills?
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="loading-card">
+                <div class="spinner"></div>
+                <div class="loading-text">Searching transactions...</div>
+            </div>
+        </div>
+
+        <div class="results" id="results">
+            <div class="card">
+                <h2 style="margin-bottom: 20px; color: #333;">📊 Results</h2>
+                
+                <div class="summary-box" id="summaryBox"></div>
+
+                <div class="transactions-header">
+                    <h3>Transaction Details</h3>
+                    <span class="badge" id="matchCount">0 matches</span>
+                </div>
+
+                <div id="transactionsList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE_URL = 'http://localhost:8000';
+        let isApiOnline = false;
+
+        function setQuery(text) {
+            document.getElementById('query').value = text;
+            document.getElementById('query').focus();
+        }
+
+        async function searchTransactions() {
+            const query = document.getElementById('query').value.trim();
+            const userId = document.getElementById('userId').value;
+            const searchBtn = document.getElementById('searchBtn');
+
+            if (!query) {
+                showError('⚠️ Please enter a question');
+                return;
+            }
+
+            // Disable button and show loading
+            searchBtn.disabled = true;
+            document.getElementById('loading').classList.add('active');
+            document.getElementById('results').classList.remove('active');
+            document.getElementById('errorBox').classList.remove('active');
+
+            // Build URL
+            let url = `${API_BASE_URL}/query?q=${encodeURIComponent(query)}`;
+            if (userId) {
+                url += `&userId=${userId}`;
+            }
+
+            try {
+                const response = await fetch(url, {
+                    method: 'GET',
+                    mode: 'cors',
+                    headers: {
+                        'Accept': 'application/json',
+                    }
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Server returned ${response.status}: ${response.statusText}`);
+                }
+
+                const data = await response.json();
+                displayResults(data);
+
+            } catch (error) {
+                console.error('Error:', error);
+                
+                let errorMessage = '❌ Error connecting to server';
+                
+                if (error.message.includes('Failed to fetch')) {
+                    errorMessage = `
+                        <strong>❌ Cannot connect to API server</strong><br><br>
+                        Please make sure:<br>
+                        1. API server is running at ${API_BASE_URL}<br>
+                        2. Run: <code>uvicorn api.app:app --reload --host 0.0.0.0 --port 8000</code><br>
+                        3. Check that CORS is enabled in app.py
+                    `;
+                } else {
+                    errorMessage = `<strong>❌ Error:</strong> ${error.message}`;
+                }
+                
+                showError(errorMessage);
+            } finally {
+                searchBtn.disabled = false;
+                document.getElementById('loading').classList.remove('active');
+            }
+        }
+
+        function displayResults(data) {
+            // Display summary
+            const summaryText = data.summary || 'No summary available';
+            document.getElementById('summaryBox').textContent = summaryText;
+
+            // Display match count
+            const matchCount = (data.matches && data.matches.length) || 0;
+            document.getElementById('matchCount').textContent = `${matchCount} match${matchCount !== 1 ? 'es' : ''}`;
+
+            // Display transactions
+            const transactionsList = document.getElementById('transactionsList');
+            transactionsList.innerHTML = '';
+
+            if (!data.matches || data.matches.length === 0) {
+                transactionsList.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">📭</div>
+                        <p>No transactions found matching your query</p>
+                    </div>
+                `;
+            } else {
+                data.matches.forEach((txn) => {
+                    const item = document.createElement('div');
+                    item.className = 'transaction-item';
+                    
+                    const amountClass = txn.type === 'Credit' ? 'credit' : '';
+                    const amountPrefix = txn.type === 'Credit' ? '+' : '-';
+                    
+                    item.innerHTML = `
+                        <div class="transaction-header">
+                            <div class="transaction-title">
+                                <strong>${txn.description || 'N/A'}</strong>
+                                <div class="transaction-meta">
+                                    ${txn.category || 'N/A'} • ${txn.userId || 'N/A'}
+                                </div>
+                            </div>
+                            <div class="transaction-amount ${amountClass}">
+                                ${amountPrefix}₹${(txn.amount || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}
+                            </div>
+                        </div>
+                        <div class="transaction-details">
+                            <div class="detail-item">
+                                <strong>📅</strong> ${txn.date || 'N/A'}
+                            </div>
+                            <div class="detail-item">
+                                <strong>💳</strong> ${txn.type || 'N/A'}
+                            </div>
+                            <div class="detail-item">
+                                <strong>💰</strong> Balance: ₹${(txn.balance || 0).toLocaleString('en-IN', {minimumFractionDigits: 2})}
+                            </div>
+                        </div>
+                    `;
+                    
+                    transactionsList.appendChild(item);
+                });
+            }
+
+            // Show results
+            document.getElementById('results').classList.add('active');
+        }
+
+        function showError(message) {
+            const errorBox = document.getElementById('errorBox');
+            errorBox.innerHTML = message;
+            errorBox.classList.add('active');
+            
+            // Auto-hide after 8 seconds
+            setTimeout(() => {
+                errorBox.classList.remove('active');
+            }, 8000);
+        }
+
+        function clearResults() {
+            document.getElementById('query').value = '';
+            document.getElementById('userId').value = '';
+            document.getElementById('results').classList.remove('active');
+            document.getElementById('errorBox').classList.remove('active');
+        }
+
+        
+        
+
+        // Allow Enter key to search
+        document.getElementById('query').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchTransactions();
+            }
+        });
+
+        // Check API status on page load
+        window.addEventListener('load', () => {
+            checkApiStatus();
+            // Recheck every 30 seconds
+            setInterval(checkApiStatus, 30000);
+        });
+    </script>
+</body>
+</html>
